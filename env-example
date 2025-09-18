@@ -1,0 +1,16 @@
+DEBUG=0
+
+PRODUCTS_MONGODB_HOST=192.168.0.123
+PRODUCTS_MONGODB_PORT=27017
+PRODUCTS_MONGODB_DB=smolecule
+PRODUCTS_MONGODB_USER=
+PRODUCTS_MONGODB_PASSWORD=
+
+PRODUCT_TABLE=bid_queue_for_split_bid_by_product_ast_bench_slim
+PRODUCT_RESULT_TABLE=product_bottle_image
+PRODUCT_FAILED_RESULT_TABLE=product_bottle_image_failed
+
+
+proxy_host=192.168.0.113
+
+project_name=medchem_spider

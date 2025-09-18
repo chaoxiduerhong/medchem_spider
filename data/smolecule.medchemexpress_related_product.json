@@ -1,0 +1,7596 @@
+[{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314249"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "alpha Tubulin Antibody",
+  "catalog_no": "HY-P80538",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe331424a"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Beta Tubulin Antibody",
+  "catalog_no": "HY-P80487",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe331424b"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "beta Tubulin Antibody (YA839)",
+  "catalog_no": "HY-P80955",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe331424c"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Doublecortin Antibody",
+  "catalog_no": "HY-P80108",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe331424d"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "LC3B Antibody (YA308)",
+  "catalog_no": "HY-P80209",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe331424e"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Stathmin 1 Antibody (YA049)",
+  "catalog_no": "HY-P80348",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe331424f"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Stathmin 1 Antibody (YA050)",
+  "catalog_no": "HY-P80349",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314250"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "alpha Tubulin (acetyl K40) Antibody",
+  "catalog_no": "HY-P80485",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314251"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "beta III Tubulin Antibody",
+  "catalog_no": "HY-P80570",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314252"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "gamma Tubulin Antibody",
+  "catalog_no": "HY-P80684",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314253"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Cytokeratin 5 Antibody",
+  "catalog_no": "HY-P80984",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314254"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "MAP2 Antibody",
+  "catalog_no": "HY-P81053",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314255"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "CK18 Antibody",
+  "catalog_no": "HY-P81181",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314256"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Cytokeratin 19 Antibody",
+  "catalog_no": "HY-P81183",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314257"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "p63 Antibody (YA1531)",
+  "catalog_no": "HY-P81786",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314258"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Cytokeratin 6 Antibody (YA1701)",
+  "catalog_no": "HY-P81956",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314259"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "HSD17B1 Antibody (YA3048)",
+  "catalog_no": "HY-P83303",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe331425a"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "TCTP Antibody",
+  "catalog_no": "HY-P80943",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe331425b"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Beta Tubulin Antibody (HRP) (YA865)",
+  "catalog_no": "HY-P80955A",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe331425c"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Cytokeratin 20 Antibody",
+  "catalog_no": "HY-P80982",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe331425d"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "DM1 Antibody (YA898)",
+  "catalog_no": "HY-P81055",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe331425e"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Cytokeratin 19 Antibody (YA924)",
+  "catalog_no": "HY-P81250",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe331425f"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Cytokeratin 16 Antibody (YA948)",
+  "catalog_no": "HY-P81266",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314260"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Cytokeratin 16 Antibody (YA949)",
+  "catalog_no": "HY-P81266A",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314261"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Cytokeratin 7 Antibody (YA950)",
+  "catalog_no": "HY-P81267",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314262"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Cytokeratin 7 Antibody (YA951)",
+  "catalog_no": "HY-P81267A",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314263"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Cytokeratin 7 Antibody (YA952)",
+  "catalog_no": "HY-P81267B",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724b7cc438efe3314264"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Cytokeratin pan Antibody (YA953)",
+  "catalog_no": "HY-P81268",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314265"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Cytokeratin pan Antibody (YA954)",
+  "catalog_no": "HY-P81268A",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314266"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "HRPT2/Parafibromin Antibody (YA1200)",
+  "catalog_no": "HY-P81455",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314267"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Tirbanibulin dihydrochloride",
+  "catalog_no": "HY-10340A",
+  "pubchem_cid": "24989633",
+  "related_bid": 1662809
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314268"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Tubulysin IM-3",
+  "catalog_no": "HY-130960",
+  "pubchem_cid": "117732206",
+  "related_bid": 12423638
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314269"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "AMXI-5001 hydrochloride",
+  "catalog_no": "HY-145734A",
+  "pubchem_cid": "163196447",
+  "related_bid": 12421924
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe331426a"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Tubulin/NEDDylation-IN-1",
+  "catalog_no": "HY-163105",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe331426b"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "TAM557 TFA",
+  "catalog_no": "HY-160473A",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe331426c"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Vinorelbine ditartrate (Standard)",
+  "catalog_no": "HY-12053AR",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe331426d"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Tubulin polymerization-IN-21",
+  "catalog_no": "HY-146164",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe331426e"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Vinorelbine",
+  "catalog_no": "HY-12053",
+  "pubchem_cid": "5311497"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe331426f"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Dolastatin 10",
+  "catalog_no": "HY-15580",
+  "pubchem_cid": "9810929",
+  "related_bid": 1670874
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314270"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "3,4',5-Trismethoxybenzophenone",
+  "catalog_no": "HY-120890",
+  "pubchem_cid": "24261633",
+  "related_bid": 1604346
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314271"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "SB-216",
+  "catalog_no": "HY-144898",
+  "pubchem_cid": "156599523"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314272"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Tubulin inhibitor 46",
+  "catalog_no": "HY-161747",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314273"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "MAP4343",
+  "catalog_no": "HY-107116",
+  "pubchem_cid": "233254",
+  "related_bid": 1618461
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314274"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "KIF18A-IN-11",
+  "catalog_no": "HY-158683",
+  "pubchem_cid": "171714027"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314275"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "2'-O-TBDMS-Paclitaxel",
+  "catalog_no": "HY-164272",
+  "pubchem_cid": "14060314",
+  "related_bid": 7826213
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314276"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Auristatin E (GMP)",
+  "catalog_no": "HY-15582G",
+  "pubchem_cid": "11498622",
+  "related_bid": 1665329
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314277"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Bicyclol",
+  "catalog_no": "HY-B0766",
+  "pubchem_cid": "9821754",
+  "related_bid": 1666982
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314278"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Fosbretabulin",
+  "catalog_no": "HY-14815",
+  "pubchem_cid": "5351387",
+  "related_bid": 40576
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314279"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "KIF18A-IN-12",
+  "catalog_no": "HY-158757",
+  "pubchem_cid": "171487892",
+  "related_bid": 12360162
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe331427a"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "KIF18A-IN-13",
+  "catalog_no": "HY-162937",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe331427b"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Tubulin polymerization-IN-8",
+  "catalog_no": "HY-143447",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe331427c"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Tubulysin IM-1",
+  "catalog_no": "HY-130958",
+  "pubchem_cid": "146681189",
+  "related_bid": 11934591
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe331427d"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "NH2-PEG3-VC-PAB-MMAE",
+  "catalog_no": "HY-164239",
+  "pubchem_cid": "171904696"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe331427e"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Colchicine-d<sub>3</sub>",
+  "catalog_no": "HY-16569S1",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe331427f"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "2-Methoxyestradiol-<sup>13</sup>C,d<sub>3</sub>",
+  "catalog_no": "HY-12033S",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314280"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Taltobulin",
+  "catalog_no": "HY-15584",
+  "pubchem_cid": "6918637",
+  "related_bid": 1684106
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314281"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Albendazole",
+  "catalog_no": "HY-B0223",
+  "pubchem_cid": "2082",
+  "related_bid": 1665689
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314282"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Lisavanbulin",
+  "catalog_no": "HY-19916",
+  "pubchem_cid": "45259014",
+  "related_bid": 1194490
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314283"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "Tubulin/PARP-IN-2",
+  "catalog_no": "HY-157320",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f724c7cc438efe3314284"
+  },
+  "main_product_name": "cemadotin hydrochloride",
+  "related_product_name": "DM4-d<sub>6</sub>",
+  "catalog_no": "HY-12454S",
+  "pubchem_cid": "0"
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce6f"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "CaMKII alpha Antibody",
+  "catalog_no": "HY-P80445",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce70"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "CaMK1 Antibody",
+  "catalog_no": "HY-P80580",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce71"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "P Glycoprotein Antibody",
+  "catalog_no": "HY-P80772",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce72"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "ADRB2 Antibody",
+  "catalog_no": "HY-P81085",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce73"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "DRD2 Antibody",
+  "catalog_no": "HY-P81092",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce74"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "CAMKK2 Antibody",
+  "catalog_no": "HY-P81205",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce75"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Dopamine Receptor D3 Antibody (YA1742)",
+  "catalog_no": "HY-P81997",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce76"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "DOPA Decarboxylase Antibody (YA2428)",
+  "catalog_no": "HY-P82683",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce77"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Salbutamol Antibody (YA901)",
+  "catalog_no": "HY-P81058",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce78"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Clenbuterol Antibody (YA904)",
+  "catalog_no": "HY-P81061",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce79"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "CAMKIV Antibody (YA942)",
+  "catalog_no": "HY-P81263",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce7a"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "CAMKIV Antibody (YA943)",
+  "catalog_no": "HY-P81263A",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce7b"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "MRP4 Antibody (YA1166)",
+  "catalog_no": "HY-P81421",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce7c"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "MRP1 Antibody (YA1583)",
+  "catalog_no": "HY-P81838",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce7d"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "alpha 1a Adrenergic Receptor Antibody (YA2059)",
+  "catalog_no": "HY-P82314",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce7e"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "CaMKII delta Antibody (YA2337)",
+  "catalog_no": "HY-P82592",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce7f"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "CaMKII beta Antibody (YA2344)",
+  "catalog_no": "HY-P82599",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7445a0c25a8032acce80"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Poliovirus Receptor Antibody (YA2556)",
+  "catalog_no": "HY-P82811",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce81"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Torsin 1A Antibody (YA2935)",
+  "catalog_no": "HY-P83190",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce82"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "PITX3 Antibody (YA2974)",
+  "catalog_no": "HY-P83229",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce83"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "HMBS Antibody (YA3061)",
+  "catalog_no": "HY-P83316",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce84"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Dopamine Receptor D1 Antibody (YA3270)",
+  "catalog_no": "HY-P83525",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce85"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Ganoderic acid TR",
+  "catalog_no": "HY-129150",
+  "pubchem_cid": "11442745",
+  "related_bid": 1631539,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce86"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Perphenazine-d<sub>8</sub> dihydrochloride",
+  "catalog_no": "HY-A0077AS",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce87"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Desglymidodrine",
+  "catalog_no": "HY-114794",
+  "pubchem_cid": "43260",
+  "related_bid": 1670291,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce88"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "PF-610355",
+  "catalog_no": "HY-14296",
+  "pubchem_cid": "11505444",
+  "related_bid": 1679667,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce89"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "L-Epinephrine sulfate",
+  "catalog_no": "HY-122304",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce8a"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "BL-1020 mesylate",
+  "catalog_no": "HY-111136",
+  "pubchem_cid": "154701740",
+  "related_bid": 12360944,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce8b"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Picumeterol",
+  "catalog_no": "HY-124950",
+  "pubchem_cid": "131251",
+  "related_bid": 1677864,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce8c"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Nadolol",
+  "catalog_no": "HY-B0804",
+  "pubchem_cid": "39147",
+  "related_bid": 74898,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce8d"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Haloperidol",
+  "catalog_no": "HY-14538",
+  "pubchem_cid": "3559",
+  "related_bid": 65202,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce8e"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "ARC 239",
+  "catalog_no": "HY-12709",
+  "pubchem_cid": "609483",
+  "related_bid": 1665597,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce8f"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Todralazine",
+  "catalog_no": "HY-B1001",
+  "pubchem_cid": "5501",
+  "related_bid": 1682392,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce90"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Amibegron hydrochloride",
+  "catalog_no": "HY-103207",
+  "pubchem_cid": "121888",
+  "related_bid": 1662959,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce91"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "N-5984",
+  "catalog_no": "HY-117378",
+  "pubchem_cid": "9865284",
+  "related_bid": 1676890,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce92"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "PG01037 dihydrochloride",
+  "catalog_no": "HY-103408",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce93"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Zotepine",
+  "catalog_no": "HY-103093",
+  "pubchem_cid": "5736",
+  "related_bid": 48254,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce94"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "PROTAC AR/AR-V7 degrader-1",
+  "catalog_no": "HY-162412",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce95"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Paliperidone-d<sub>4</sub>",
+  "catalog_no": "HY-A0019S",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce96"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Nuciferine",
+  "catalog_no": "HY-N0049",
+  "pubchem_cid": "10146",
+  "related_bid": 1677029,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce97"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Curcumin",
+  "catalog_no": "HY-N0005",
+  "pubchem_cid": "969516",
+  "related_bid": 1669340,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce98"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Preclamol hydrochloride",
+  "catalog_no": "HY-108698",
+  "pubchem_cid": "11957669",
+  "related_bid": 1624389,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce99"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Sonepiprazole",
+  "catalog_no": "HY-14328",
+  "pubchem_cid": "133079",
+  "related_bid": 1681054,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce9a"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "BMS-194449",
+  "catalog_no": "HY-118141",
+  "pubchem_cid": "9872113",
+  "related_bid": 1667179,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce9b"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Clenproperol-d<sub>7</sub>",
+  "catalog_no": "HY-100699S",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce9c"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Loxapine (Standard)",
+  "catalog_no": "HY-17390R",
+  "pubchem_cid": "0",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce9d"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Cap-dependent endonuclease-IN-23",
+  "catalog_no": "HY-144067",
+  "pubchem_cid": "163196344",
+  "related_bid": 12416093,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce9e"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Ziprasidone hydrochloride monohydrate",
+  "catalog_no": "HY-17407",
+  "pubchem_cid": "60853",
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032acce9f"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Bonaphthone",
+  "catalog_no": "HY-W269306",
+  "pubchem_cid": "23384",
+  "related_bid": 177211,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032accea0"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Biricodar",
+  "catalog_no": "HY-13574A",
+  "pubchem_cid": "3037617",
+  "related_bid": 1683581,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032accea1"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "(R)-(+)-Atenolol",
+  "catalog_no": "HY-B2111",
+  "pubchem_cid": "180559",
+  "related_bid": 1678819,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f7446a0c25a8032accea2"
+  },
+  "main_product_name": "Trifluoperazine",
+  "related_product_name": "Salbutamol",
+  "catalog_no": "HY-B1037",
+  "pubchem_cid": "2083",
+  "related_bid": 1663637,
+  "main_bid": 1681574
+},
+{
+  "_id": {
+    "$oid": "670f75812ecf267b5bec63b0"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "BrdU Antibody (YA578)",
+  "catalog_no": "HY-P80038",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75812ecf267b5bec63b1"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "CD99 Antibody",
+  "catalog_no": "HY-P80070",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75812ecf267b5bec63b2"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "CD44 Antibody",
+  "catalog_no": "HY-P80062",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75812ecf267b5bec63b3"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "DYKDDDDK Tag (FLAG) Antibody",
+  "catalog_no": "HY-P80111",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75812ecf267b5bec63b4"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "GFP Antibody",
+  "catalog_no": "HY-P80141",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75812ecf267b5bec63b5"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Myc-tag Antibody",
+  "catalog_no": "HY-P80232",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75812ecf267b5bec63b6"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Ferritin Heavy Chain Antibody",
+  "catalog_no": "HY-P80670",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75812ecf267b5bec63b7"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "53BP1 Antibody",
+  "catalog_no": "HY-P80001",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75812ecf267b5bec63b8"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "CD9 Antibody (YA524)",
+  "catalog_no": "HY-P80068",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75812ecf267b5bec63b9"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "METTL3 Antibody",
+  "catalog_no": "HY-P80223",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75812ecf267b5bec63ba"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "NeuN Antibody",
+  "catalog_no": "HY-P80241",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75812ecf267b5bec63bb"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "p27 KIP 1 Antibody",
+  "catalog_no": "HY-P80256",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75812ecf267b5bec63bc"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Ubiquitin Antibody (YA022)",
+  "catalog_no": "HY-P80363",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75812ecf267b5bec63bd"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Beta Tubulin Antibody",
+  "catalog_no": "HY-P80487",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75812ecf267b5bec63be"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "SQSTM1/p62 Antibody (YA669)",
+  "catalog_no": "HY-P80518",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63bf"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "TGF beta 1 Antibody",
+  "catalog_no": "HY-P80521",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63c0"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "CD45 Antibody (YA800)",
+  "catalog_no": "HY-P80603",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63c1"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "CD63 Antibody",
+  "catalog_no": "HY-P80604",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63c2"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "CD81 Antibody",
+  "catalog_no": "HY-P80608",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63c3"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "CD9 Antibody",
+  "catalog_no": "HY-P80610",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63c4"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "p38 Antibody",
+  "catalog_no": "HY-P80777",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63c5"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "SQSTM1/p62 Antibody (YA062)",
+  "catalog_no": "HY-P80899",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63c6"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "xCT Antibody (YA006)",
+  "catalog_no": "HY-P80935",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63c7"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "CD40L Antibody",
+  "catalog_no": "HY-P80057",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63c8"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "CD45 Antibody (YA533)",
+  "catalog_no": "HY-P80063",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63c9"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "CD68 Antibody (YA798)",
+  "catalog_no": "HY-P80066",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63ca"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "CD68 Antibody (YA529)",
+  "catalog_no": "HY-P80067",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63cb"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "CD90 Antibody",
+  "catalog_no": "HY-P80069",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63cc"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Clathrin heavy chain Antibody",
+  "catalog_no": "HY-P80086",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63cd"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Cyclophilin A Antibody",
+  "catalog_no": "HY-P80101",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63ce"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Traxivitug",
+  "catalog_no": "HY-P990769",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63cf"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "BDC2.5 mimotope",
+  "catalog_no": "HY-P10512",
+  "pubchem_cid": "171904664",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63d0"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Antitumor agent-67",
+  "catalog_no": "HY-146114",
+  "pubchem_cid": "162663092",
+  "related_bid": 12403754,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63d1"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Anti-Mouse CD83 Antibody (Michel-17)",
+  "catalog_no": "HY-P990261",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63d2"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Catechin 7-O-β-D-glucopyranoside",
+  "catalog_no": "HY-N10587",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63d3"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "DA 1686",
+  "catalog_no": "HY-120730",
+  "pubchem_cid": "202647",
+  "related_bid": 1669726,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63d4"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Carbobenzoxyproline",
+  "catalog_no": "HY-Y0588",
+  "pubchem_cid": "101987",
+  "related_bid": 94951,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63d5"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "ATR-IN-9",
+  "catalog_no": "HY-145450",
+  "pubchem_cid": "155585610",
+  "related_bid": 12417290,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63d6"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "TBTDC",
+  "catalog_no": "HY-145241",
+  "pubchem_cid": "162679300",
+  "related_bid": 12426008,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63d7"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "DHT/KLH",
+  "catalog_no": "HY-161543",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63d8"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Conagenin",
+  "catalog_no": "HY-119527",
+  "pubchem_cid": "9881406",
+  "related_bid": 1669308,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63d9"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Anti-AXL/UFO Antibody (ORY012)",
+  "catalog_no": "HY-P990339",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63da"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Peucenin 7-O-methyl ether",
+  "catalog_no": "HY-N10994",
+  "pubchem_cid": "615800",
+  "related_bid": 80535,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63db"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "6-Hydroxy-4-methylcoumarin",
+  "catalog_no": "HY-N6658",
+  "pubchem_cid": "75409",
+  "related_bid": 191455,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63dc"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Anti-Mouse IL-27 p28 Antibody (MM27.7B1)",
+  "catalog_no": "HY-P990215",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63dd"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "AMT-NHS",
+  "catalog_no": "HY-150014",
+  "pubchem_cid": "164887507",
+  "related_bid": 10857153,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63de"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Nylidrin hydrochloride",
+  "catalog_no": "HY-B1404",
+  "pubchem_cid": "5702098",
+  "related_bid": 1677060,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63df"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Pyrogallol triacetate",
+  "catalog_no": "HY-116209",
+  "pubchem_cid": "10678",
+  "related_bid": 1678535,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63e0"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Rat IgG2a kappa, Isotype Control",
+  "catalog_no": "HY-P990679",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63e1"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "D-(+)-Fucose",
+  "catalog_no": "HY-N5102",
+  "pubchem_cid": "94270",
+  "related_bid": 118439,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63e2"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "OVA Peptide (323-339)",
+  "catalog_no": "HY-P0286",
+  "pubchem_cid": "0",
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63e3"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Hesperidin dihydrochalcone",
+  "catalog_no": "HY-164370",
+  "pubchem_cid": "155887799",
+  "related_bid": 12110229,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63e4"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Bletilloside A",
+  "catalog_no": "HY-N8177",
+  "pubchem_cid": "134715144",
+  "related_bid": 11938788,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63e5"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Transcriptional Intermediary Factor 2 (TIF2) (740-753)",
+  "catalog_no": "HY-P2515",
+  "pubchem_cid": "137646168",
+  "related_bid": 13925274,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63e6"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Dicyclohexyl carbonate",
+  "catalog_no": "HY-W102677",
+  "pubchem_cid": "138235",
+  "related_bid": 57173,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63e7"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Pep-1 (uncapped)",
+  "catalog_no": "HY-P1848",
+  "pubchem_cid": "16199972",
+  "related_bid": 612563,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63e8"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Aspochalasin M",
+  "catalog_no": "HY-117220",
+  "pubchem_cid": "137700389",
+  "related_bid": 2481514,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63e9"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "Dihydrofuran-3(2H)-one",
+  "catalog_no": "HY-33900",
+  "pubchem_cid": "529392",
+  "related_bid": 156105,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63ea"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "BPK-29 hydrochloride",
+  "catalog_no": "HY-122054A",
+  "pubchem_cid": "139035041",
+  "related_bid": 2464641,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75822ecf267b5bec63eb"
+  },
+  "main_product_name": "Amotosalen",
+  "related_product_name": "pppApG",
+  "catalog_no": "HY-137660",
+  "pubchem_cid": "139593611",
+  "related_bid": 12396839,
+  "main_bid": 1665471
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63ec"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "Leukotriene A4 Hydrolase Antibody (YA2400)",
+  "catalog_no": "HY-P82655",
+  "pubchem_cid": "0",
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63ed"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "CP-199330",
+  "catalog_no": "HY-123571",
+  "pubchem_cid": "9830317",
+  "related_bid": 1669471,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63ee"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "20-Carboxy-Leukotriene B4",
+  "catalog_no": "HY-113483",
+  "pubchem_cid": "5280877",
+  "related_bid": 162654,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63ef"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "LTB4-IN-2",
+  "catalog_no": "HY-155204",
+  "pubchem_cid": "168510357",
+  "related_bid": 12377791,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63f0"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "(5S,6S)-DiHETE",
+  "catalog_no": "HY-130138",
+  "pubchem_cid": "5283161",
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63f1"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "LY306669",
+  "catalog_no": "HY-117557",
+  "pubchem_cid": "14962949",
+  "related_bid": 12383934,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63f2"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "Masilukast",
+  "catalog_no": "HY-105221",
+  "pubchem_cid": "204056",
+  "related_bid": 1676212,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63f3"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "MK-886",
+  "catalog_no": "HY-14166",
+  "pubchem_cid": "3651377",
+  "related_bid": 1676634,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63f4"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "JNJ-40929837 succinate",
+  "catalog_no": "HY-156960A",
+  "pubchem_cid": "67201213",
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63f5"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "CP-96021 hydrochloride",
+  "catalog_no": "HY-101731",
+  "pubchem_cid": "139600261",
+  "related_bid": 12432943,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63f6"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "Tomelukast",
+  "catalog_no": "HY-111212",
+  "pubchem_cid": "3969",
+  "related_bid": 1681340,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63f7"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "A63162",
+  "catalog_no": "HY-118848",
+  "pubchem_cid": "0",
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63f8"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "CAY10583",
+  "catalog_no": "HY-122124",
+  "pubchem_cid": "51529932",
+  "related_bid": 606500,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63f9"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "Olsalazine",
+  "catalog_no": "HY-B0174A",
+  "pubchem_cid": "22419",
+  "related_bid": 1677275,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63fa"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "U-75302",
+  "catalog_no": "HY-105484",
+  "pubchem_cid": "6449854",
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63fb"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "Pranlukast",
+  "catalog_no": "HY-B0290",
+  "pubchem_cid": "4887",
+  "related_bid": 1662883,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63fc"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "LY290324",
+  "catalog_no": "HY-120755",
+  "pubchem_cid": "6444265",
+  "related_bid": 1675654,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63fd"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "Amelubant",
+  "catalog_no": "HY-19304",
+  "pubchem_cid": "135564996",
+  "related_bid": 1665960,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63fe"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "(S)-Verapamil-d<sub>7</sub> hydrochloride",
+  "catalog_no": "HY-135336AS",
+  "pubchem_cid": "0",
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec63ff"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "RG 14893",
+  "catalog_no": "HY-112736",
+  "pubchem_cid": "132379",
+  "related_bid": 1679309,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec6400"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "ZK-158252",
+  "catalog_no": "HY-122175",
+  "pubchem_cid": "9824142",
+  "related_bid": 1684394,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec6401"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "Zafirlukast-d<sub>7</sub>",
+  "catalog_no": "HY-17492S",
+  "pubchem_cid": "0",
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec6402"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "Quininib",
+  "catalog_no": "HY-119442",
+  "pubchem_cid": "135411330",
+  "related_bid": 610386,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec6403"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "RS-601",
+  "catalog_no": "HY-U00072",
+  "pubchem_cid": "10414013",
+  "related_bid": 12293157,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec6404"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "Tipelukast",
+  "catalog_no": "HY-14938",
+  "pubchem_cid": "9893228",
+  "related_bid": 1682912,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec6405"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "LM-1484",
+  "catalog_no": "HY-101686",
+  "pubchem_cid": "10027442",
+  "related_bid": 10800986,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec6406"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "RG-12525",
+  "catalog_no": "HY-101676",
+  "pubchem_cid": "129044",
+  "related_bid": 1680577,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec6407"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "Quinotolast sodium",
+  "catalog_no": "HY-U00027",
+  "pubchem_cid": "9799557",
+  "related_bid": 1240975,
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75842ecf267b5bec6408"
+  },
+  "main_product_name": "Pobilukast",
+  "related_product_name": "Darbufelone mesylate",
+  "catalog_no": "HY-101438A",
+  "pubchem_cid": "6439420",
+  "main_bid": 218140
+},
+{
+  "_id": {
+    "$oid": "670f75852ecf267b5bec6409"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "DRD2 Antibody",
+  "catalog_no": "HY-P81092",
+  "pubchem_cid": "0",
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75852ecf267b5bec640a"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Dopamine Receptor D3 Antibody (YA1742)",
+  "catalog_no": "HY-P81997",
+  "pubchem_cid": "0",
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75852ecf267b5bec640b"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "DOPA Decarboxylase Antibody (YA2428)",
+  "catalog_no": "HY-P82683",
+  "pubchem_cid": "0",
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75852ecf267b5bec640c"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Torsin 1A Antibody (YA2935)",
+  "catalog_no": "HY-P83190",
+  "pubchem_cid": "0",
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75852ecf267b5bec640d"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "PITX3 Antibody (YA2974)",
+  "catalog_no": "HY-P83229",
+  "pubchem_cid": "0",
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75852ecf267b5bec640e"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "HMBS Antibody (YA3061)",
+  "catalog_no": "HY-P83316",
+  "pubchem_cid": "0",
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75852ecf267b5bec640f"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Dopamine Receptor D1 Antibody (YA3270)",
+  "catalog_no": "HY-P83525",
+  "pubchem_cid": "0",
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75852ecf267b5bec6410"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Perphenazine-d<sub>8</sub> dihydrochloride",
+  "catalog_no": "HY-A0077AS",
+  "pubchem_cid": "0",
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75852ecf267b5bec6411"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "BL-1020 mesylate",
+  "catalog_no": "HY-111136",
+  "pubchem_cid": "154701740",
+  "related_bid": 12360944,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75852ecf267b5bec6412"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Haloperidol",
+  "catalog_no": "HY-14538",
+  "pubchem_cid": "3559",
+  "related_bid": 65202,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75852ecf267b5bec6413"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "PG01037 dihydrochloride",
+  "catalog_no": "HY-103408",
+  "pubchem_cid": "0",
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75852ecf267b5bec6414"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Zotepine",
+  "catalog_no": "HY-103093",
+  "pubchem_cid": "5736",
+  "related_bid": 48254,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec6415"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Paliperidone-d<sub>4</sub>",
+  "catalog_no": "HY-A0019S",
+  "pubchem_cid": "0",
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec6416"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Nuciferine",
+  "catalog_no": "HY-N0049",
+  "pubchem_cid": "10146",
+  "related_bid": 1677029,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec6417"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Preclamol hydrochloride",
+  "catalog_no": "HY-108698",
+  "pubchem_cid": "11957669",
+  "related_bid": 1624389,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec6418"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Sonepiprazole",
+  "catalog_no": "HY-14328",
+  "pubchem_cid": "133079",
+  "related_bid": 1681054,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec6419"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Loxapine (Standard)",
+  "catalog_no": "HY-17390R",
+  "pubchem_cid": "0",
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec641a"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Ziprasidone hydrochloride monohydrate",
+  "catalog_no": "HY-17407",
+  "pubchem_cid": "60853",
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec641b"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "WAY-100635 maleate",
+  "catalog_no": "HY-10349A",
+  "pubchem_cid": "11957721",
+  "related_bid": 1683584,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec641c"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "CY 208-243",
+  "catalog_no": "HY-106094",
+  "pubchem_cid": "58144",
+  "related_bid": 24596,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec641d"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Paliperidone palmitate",
+  "catalog_no": "HY-A0019A",
+  "pubchem_cid": "9852746",
+  "related_bid": 1678296,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec641e"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Raclopride tartrate",
+  "catalog_no": "HY-108976",
+  "pubchem_cid": "16219926",
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec641f"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Trifluoperazine dihydrochloride",
+  "catalog_no": "HY-B0532A",
+  "pubchem_cid": "66064",
+  "related_bid": 1683243,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec6420"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "A31472",
+  "catalog_no": "HY-119076",
+  "pubchem_cid": "3038603",
+  "related_bid": 1664737,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec6421"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "(+)-Butaclamol hydrochloride",
+  "catalog_no": "HY-122979",
+  "pubchem_cid": "6852400",
+  "related_bid": 3183058,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec6422"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Aplindore fumarate",
+  "catalog_no": "HY-129507",
+  "pubchem_cid": "6440763",
+  "related_bid": 1665142,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec6423"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Sulpiride",
+  "catalog_no": "HY-B1019",
+  "pubchem_cid": "5355",
+  "related_bid": 1682569,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec6424"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Ecopipam",
+  "catalog_no": "HY-14690",
+  "pubchem_cid": "107930",
+  "related_bid": 1671091,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec6425"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Clebopride malate",
+  "catalog_no": "HY-B1613A",
+  "pubchem_cid": "14178874",
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec6426"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "PNU-96415E",
+  "catalog_no": "HY-103404",
+  "pubchem_cid": "0",
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec6427"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "Fluoroclebopride",
+  "catalog_no": "HY-102089",
+  "pubchem_cid": "127887",
+  "related_bid": 1672906,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec6428"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "N-Despropyl Ropinirole",
+  "catalog_no": "HY-W329175",
+  "pubchem_cid": "10398490",
+  "related_bid": 22661,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec6429"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "TDHL",
+  "catalog_no": "HY-12714",
+  "pubchem_cid": "443951",
+  "related_bid": 126555,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75862ecf267b5bec642a"
+  },
+  "main_product_name": "Aplindore",
+  "related_product_name": "A-412997",
+  "catalog_no": "HY-129103",
+  "pubchem_cid": "10425450",
+  "related_bid": 1664231,
+  "main_bid": 1215845
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec642b"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Antifungal agent 26",
+  "catalog_no": "HY-146747",
+  "pubchem_cid": "163322394",
+  "related_bid": 12416086,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec642c"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Quinidine-d<sub>3</sub>",
+  "catalog_no": "HY-B1751S",
+  "pubchem_cid": "0",
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec642d"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Angulatin G",
+  "catalog_no": "HY-N10697",
+  "pubchem_cid": "166642503",
+  "related_bid": 12395577,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec642e"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Acridine Orange base",
+  "catalog_no": "HY-D0952",
+  "pubchem_cid": "62344",
+  "related_bid": 100579,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec642f"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "N-Desethyl amodiaquine-d<sub>5</sub>",
+  "catalog_no": "HY-128554S",
+  "pubchem_cid": "0",
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec6430"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Palitantin",
+  "catalog_no": "HY-120154",
+  "pubchem_cid": "6438427",
+  "related_bid": 231872,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec6431"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Luxabendazole",
+  "catalog_no": "HY-122765",
+  "pubchem_cid": "72019",
+  "related_bid": 1675524,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec6432"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Proguanil-d<sub>6</sub>",
+  "catalog_no": "HY-B0806S",
+  "pubchem_cid": "0",
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec6433"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Azlocillin sodium salt",
+  "catalog_no": "HY-B0529A",
+  "pubchem_cid": "23685176",
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec6434"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Estragole (Standard)",
+  "catalog_no": "HY-N5060R",
+  "pubchem_cid": "0",
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec6435"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Methyl palmitate",
+  "catalog_no": "HY-N1482",
+  "pubchem_cid": "8181",
+  "related_bid": 116596,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec6436"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Levofuraltadone",
+  "catalog_no": "HY-122382",
+  "pubchem_cid": "9579050",
+  "related_bid": 1675104,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec6437"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "HBPC–GSH",
+  "catalog_no": "HY-148216",
+  "pubchem_cid": "0",
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec6438"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Doxycycline calcium",
+  "catalog_no": "HY-N0565C",
+  "pubchem_cid": "73415789",
+  "related_bid": 1207785,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec6439"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Antimalarial agent 30",
+  "catalog_no": "HY-155689",
+  "pubchem_cid": "46868970",
+  "related_bid": 12390640,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec643a"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Nitroxynil (Standard)",
+  "catalog_no": "HY-W049875R",
+  "pubchem_cid": "0",
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec643b"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Nuciferine",
+  "catalog_no": "HY-N0049",
+  "pubchem_cid": "10146",
+  "related_bid": 1677029,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75872ecf267b5bec643c"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "SQ109",
+  "catalog_no": "HY-14989",
+  "pubchem_cid": "5274428",
+  "related_bid": 1681080,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75882ecf267b5bec643d"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "13,21-Dihydroeurycomanone",
+  "catalog_no": "HY-N9320",
+  "pubchem_cid": "13936707",
+  "related_bid": 3181808,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75882ecf267b5bec643e"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Spiramycin (hexanedioate)",
+  "catalog_no": "HY-100593A",
+  "pubchem_cid": "0",
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75882ecf267b5bec643f"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Nevirapine",
+  "catalog_no": "HY-10570",
+  "pubchem_cid": "4463",
+  "related_bid": 1678648,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75882ecf267b5bec6440"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Monensin sodium",
+  "catalog_no": "HY-N0150",
+  "pubchem_cid": "23667299",
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75882ecf267b5bec6441"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Narasin sodium",
+  "catalog_no": "HY-112225",
+  "pubchem_cid": "23686753",
+  "related_bid": 17828,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75882ecf267b5bec6442"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Bephenium (hydroxynaphthoate) (Standard)",
+  "catalog_no": "HY-12639AR",
+  "pubchem_cid": "0",
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75882ecf267b5bec6443"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Erythrinasinate B",
+  "catalog_no": "HY-N3160",
+  "pubchem_cid": "5743442",
+  "related_bid": 172644,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75882ecf267b5bec6444"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Acequinocyl",
+  "catalog_no": "HY-118896",
+  "pubchem_cid": "93315",
+  "related_bid": 1664961,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75882ecf267b5bec6445"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Milbemycin A4 oxime",
+  "catalog_no": "HY-138074",
+  "pubchem_cid": "145710042",
+  "related_bid": 10814148,
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75882ecf267b5bec6446"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Quinine hydrochloride dihydrate (Standard)",
+  "catalog_no": "HY-B0433AR",
+  "pubchem_cid": "0",
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75882ecf267b5bec6447"
+  },
+  "main_product_name": "Proclonol",
+  "related_product_name": "Clindamycin phosphate",
+  "catalog_no": "HY-B1064",
+  "pubchem_cid": "443385",
+  "main_bid": 1679091
+},
+{
+  "_id": {
+    "$oid": "670f75892ecf267b5bec6448"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Cleaved-Caspase 9 Antibody",
+  "catalog_no": "HY-P80964",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f75892ecf267b5bec6449"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "BNSP Antibody",
+  "catalog_no": "HY-P80969",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f75892ecf267b5bec644a"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "FACL4 Antibody",
+  "catalog_no": "HY-P80977",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f75892ecf267b5bec644b"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "BrdU Antibody (YA578)",
+  "catalog_no": "HY-P80038",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f75892ecf267b5bec644c"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "ERK1/2 Antibody",
+  "catalog_no": "HY-P80393",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f75892ecf267b5bec644d"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Bcl-2 Antibody",
+  "catalog_no": "HY-P80029",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f75892ecf267b5bec644e"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "E-Cadherin Antibody (YA470)",
+  "catalog_no": "HY-P80113",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f75892ecf267b5bec644f"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Fatty Acid Synthase Antibody (YA766)",
+  "catalog_no": "HY-P80668",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6450"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "DYKDDDDK Tag (FLAG) Antibody",
+  "catalog_no": "HY-P80111",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6451"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "GAPDH Antibody",
+  "catalog_no": "HY-P80137",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6452"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "GFP Antibody",
+  "catalog_no": "HY-P80141",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6453"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "p53 Antibody (YA250)",
+  "catalog_no": "HY-P80257",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6454"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "RUNX2 Antibody",
+  "catalog_no": "HY-P80316",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6455"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Bcl2 Antibody",
+  "catalog_no": "HY-P80566",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6456"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Cleaved-Caspase 3 p12 Antibody",
+  "catalog_no": "HY-P80623",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6457"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Ferritin Heavy Chain Antibody",
+  "catalog_no": "HY-P80670",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6458"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Glucose 6 Phosphate Dehydrogenase Antibody",
+  "catalog_no": "HY-P80688",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6459"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Bax Antibody (YA591)",
+  "catalog_no": "HY-P80028",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec645a"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Caspase-3 Antibody",
+  "catalog_no": "HY-P80046",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec645b"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Caspase-9 Antibody",
+  "catalog_no": "HY-P80050",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec645c"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "COX2 Antibody",
+  "catalog_no": "HY-P80090",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec645d"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Ctip2 Antibody",
+  "catalog_no": "HY-P80095",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec645e"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Cyclin D1 Antibody (YA485)",
+  "catalog_no": "HY-P80098",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec645f"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Cytochrome C Antibody",
+  "catalog_no": "HY-P80102",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6460"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "METTL3 Antibody",
+  "catalog_no": "HY-P80223",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6461"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Caspase 7 Antibody",
+  "catalog_no": "HY-P80589",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6462"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "c-Myc Antibody",
+  "catalog_no": "HY-P80626",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6463"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "TSG101 Antibody",
+  "catalog_no": "HY-P80924",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6464"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "AIF Antibody (YA636)",
+  "catalog_no": "HY-P80006",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6465"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "ALIX Antibody",
+  "catalog_no": "HY-P80011",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6466"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Puerarin 6''-O-Xyloside (Standard)",
+  "catalog_no": "HY-N2135R",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6467"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "D-Valine-d<sub>8</sub>",
+  "catalog_no": "HY-N0717AS",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6468"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "SY-5609",
+  "catalog_no": "HY-138293",
+  "pubchem_cid": "146662729",
+  "related_bid": 8191575,
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6469"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "D-α-Hydroxyglutaric acid disodium",
+  "catalog_no": "HY-100542",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec646a"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "BRD4 Inhibitor-18",
+  "catalog_no": "HY-146660",
+  "pubchem_cid": "156016820",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec646b"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Nicotinamide N-oxide",
+  "catalog_no": "HY-101407",
+  "pubchem_cid": "72661",
+  "related_bid": 30751,
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec646c"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Monoglyceride lipase, Bacillus sp.",
+  "catalog_no": "HY-158362A",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec646d"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "c-Met-IN-24",
+  "catalog_no": "HY-162803",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec646e"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "8α-Tigloyloxyhirsutinolide 13-O-acetate",
+  "catalog_no": "HY-138071",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec646f"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "F1324",
+  "catalog_no": "HY-100866",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6470"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Deoxycholic acid-d<sub>5</sub>",
+  "catalog_no": "HY-N0593S1",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6471"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Ginkgolide C (Standard)",
+  "catalog_no": "HY-N0785R",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6472"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Palitantin",
+  "catalog_no": "HY-120154",
+  "pubchem_cid": "6438427",
+  "related_bid": 231872,
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6473"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Estradiol hemihydrate",
+  "catalog_no": "HY-B0141C",
+  "pubchem_cid": "154274",
+  "related_bid": 1218696,
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6474"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "GW7845",
+  "catalog_no": "HY-121746",
+  "pubchem_cid": "9870584",
+  "related_bid": 1672479,
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6475"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "AAPK-25",
+  "catalog_no": "HY-126249",
+  "pubchem_cid": "138911334",
+  "related_bid": 8106008,
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6476"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Mca-DEVDAP-K(Dnp)-OH",
+  "catalog_no": "HY-P2614",
+  "pubchem_cid": "71308540",
+  "related_bid": 575278,
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6477"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Dutasteride-<sup>13</sup>C<sub>6</sub>",
+  "catalog_no": "HY-13613S",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6478"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Z-VAD-FMK",
+  "catalog_no": "HY-16658B",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6479"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Benidipine hydrochloride",
+  "catalog_no": "HY-B1448",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec647a"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "L-Epinephrine sulfate",
+  "catalog_no": "HY-122304",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec647b"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "A-1208746",
+  "catalog_no": "HY-W689801",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec647c"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "YC137",
+  "catalog_no": "HY-123244",
+  "pubchem_cid": "6918811",
+  "related_bid": 1683862,
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec647d"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Oleic acid-<sup>13</sup>C",
+  "catalog_no": "HY-N1446S",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec647e"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Salidroside (Standard)",
+  "catalog_no": "HY-N0109R",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec647f"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Dextranase, Trichoderma reesei",
+  "catalog_no": "HY-P2840",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6480"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Glyphosate-<sup>13</sup>C<sub>2</sub>,<sup>15</sup>N",
+  "catalog_no": "HY-B0863S3",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6481"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "p-Anisic acid (Standard)",
+  "catalog_no": "HY-N1394R",
+  "pubchem_cid": "0",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758a2ecf267b5bec6482"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "H2S Donor 5a",
+  "catalog_no": "HY-130347",
+  "pubchem_cid": "14952493",
+  "related_bid": 132899,
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758b2ecf267b5bec6483"
+  },
+  "main_product_name": "Ginsenoside Rh4",
+  "related_product_name": "Anticancer agent 120",
+  "catalog_no": "HY-149997",
+  "pubchem_cid": "170901894",
+  "main_bid": 1139370
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6484"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "PAR2 Antibody (YA2455)",
+  "catalog_no": "HY-P82710",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6485"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Thrombomodulin Antibody (YA891)",
+  "catalog_no": "HY-P81045",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6486"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Thrombomodulin Antibody (YA892)",
+  "catalog_no": "HY-P81046",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6487"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "F2 Antibody",
+  "catalog_no": "HY-P81243",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6488"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "PAR6 Antibody (YA1536)",
+  "catalog_no": "HY-P81791",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6489"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Prothrombin Antibody (YA1753)",
+  "catalog_no": "HY-P82008",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec648a"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Protein C Antibody (YA2461)",
+  "catalog_no": "HY-P82716",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec648b"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "PAR4 Antibody (YA2603)",
+  "catalog_no": "HY-P82858",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec648c"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Protein S Antibody (YA2919)",
+  "catalog_no": "HY-P83174",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec648d"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Edoxaban tosylate",
+  "catalog_no": "HY-10264A",
+  "pubchem_cid": "44610678",
+  "related_bid": 1437204,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec648e"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Thrombin inhibitor 11",
+  "catalog_no": "HY-162109",
+  "pubchem_cid": "170453183",
+  "related_bid": 12369078,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec648f"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Heparin calcium (MW 3600-5000)",
+  "catalog_no": "HY-107966A",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6490"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Argatroban monohydrate",
+  "catalog_no": "HY-B0375A",
+  "pubchem_cid": "92721",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6491"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Thrombin receptor peptide ligand",
+  "catalog_no": "HY-P5889",
+  "pubchem_cid": "10078571",
+  "related_bid": 12385383,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6492"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "BMS-189664",
+  "catalog_no": "HY-19219",
+  "pubchem_cid": "9869699",
+  "related_bid": 1667174,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6493"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "15,16-Dihydrotanshindiol C",
+  "catalog_no": "HY-N10762",
+  "pubchem_cid": "102004772",
+  "related_bid": 3030361,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6494"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Edoxaban-d<sub>6</sub>",
+  "catalog_no": "HY-10264S",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6495"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Desethyl KBT-3022",
+  "catalog_no": "HY-U00039",
+  "pubchem_cid": "127736",
+  "related_bid": 1201316,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6496"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "LY135305",
+  "catalog_no": "HY-120563",
+  "pubchem_cid": "129910",
+  "related_bid": 1675572,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6497"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Befovacimab",
+  "catalog_no": "HY-P99465",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6498"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Pirmagrel",
+  "catalog_no": "HY-106691",
+  "pubchem_cid": "55390",
+  "related_bid": 1221292,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec6499"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Melagatran",
+  "catalog_no": "HY-129056",
+  "pubchem_cid": "183797",
+  "related_bid": 23205,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec649a"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Argatroban (Standard)",
+  "catalog_no": "HY-B0375R",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec649b"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "TP508",
+  "catalog_no": "HY-P0316",
+  "pubchem_cid": "91668177",
+  "related_bid": 612539,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec649c"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Inogatran",
+  "catalog_no": "HY-19660",
+  "pubchem_cid": "66005",
+  "related_bid": 133910,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec649d"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "RWJ-445167",
+  "catalog_no": "HY-19373",
+  "pubchem_cid": "15887336",
+  "related_bid": 1252543,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec649e"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Napsagatran hydrate",
+  "catalog_no": "HY-15759A",
+  "pubchem_cid": "11954363",
+  "related_bid": 1676955,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec649f"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Rovunaptabin",
+  "catalog_no": "HY-148826",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec64a0"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Heparin sodium salt (MW 15kDa)",
+  "catalog_no": "HY-17567C",
+  "pubchem_cid": "118989588",
+  "related_bid": 601717,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec64a1"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Ro 09-1679",
+  "catalog_no": "HY-125528",
+  "pubchem_cid": "9936663",
+  "related_bid": 14749624,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec64a2"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "SAR107375",
+  "catalog_no": "HY-12605",
+  "pubchem_cid": "67155200",
+  "related_bid": 12374944,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec64a3"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Desirudin",
+  "catalog_no": "HY-109549",
+  "pubchem_cid": "16129703",
+  "related_bid": 48585,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec64a4"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Argatroban monohydrate (Standard)",
+  "catalog_no": "HY-B0375AR",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec64a5"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Dabigatran-d<sub>3</sub>",
+  "catalog_no": "HY-10163S1",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec64a6"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Thrombin inhibitor 6",
+  "catalog_no": "HY-151983",
+  "pubchem_cid": "136314017",
+  "related_bid": 12404630,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec64a7"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "EP 171",
+  "catalog_no": "HY-118220",
+  "pubchem_cid": "5311384",
+  "related_bid": 1671368,
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758c2ecf267b5bec64a8"
+  },
+  "main_product_name": "Moxicoumone",
+  "related_product_name": "Dabigatran etexilate mesylate (Standard)",
+  "catalog_no": "HY-10274AR",
+  "pubchem_cid": "0",
+  "main_bid": 1676769
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64a9"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "SDHA Antibody",
+  "catalog_no": "HY-P80318",
+  "pubchem_cid": "0",
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64aa"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Antifungal agent 26",
+  "catalog_no": "HY-146747",
+  "pubchem_cid": "163322394",
+  "related_bid": 12416086,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64ab"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "PC945",
+  "catalog_no": "HY-117766",
+  "pubchem_cid": "121383526",
+  "related_bid": 2538439,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64ac"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Proanthocyanidins",
+  "catalog_no": "HY-N0794",
+  "pubchem_cid": "107876",
+  "related_bid": 600670,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64ad"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Chitin synthase inhibitor 11",
+  "catalog_no": "HY-151421",
+  "pubchem_cid": "165412783",
+  "related_bid": 12390156,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64ae"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Toyocamycin",
+  "catalog_no": "HY-103248",
+  "pubchem_cid": "0",
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64af"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Trifloxystrobin-d<sub>3</sub>",
+  "catalog_no": "HY-123230S1",
+  "pubchem_cid": "0",
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64b0"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Staurosporine",
+  "catalog_no": "HY-15141",
+  "pubchem_cid": "44259",
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64b1"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Phenazine-1-carboxylic acid",
+  "catalog_no": "HY-33037",
+  "pubchem_cid": "95069",
+  "related_bid": 9645,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64b2"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Ciclopirox olamine",
+  "catalog_no": "HY-B0450A",
+  "pubchem_cid": "38911",
+  "related_bid": 1668986,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64b3"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Rubropunctamine",
+  "catalog_no": "HY-N6643",
+  "pubchem_cid": "135612770",
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64b4"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "(+)-Columbianetin acetate",
+  "catalog_no": "HY-N0363A",
+  "pubchem_cid": "161409",
+  "related_bid": 190511,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64b5"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Aminothiazole",
+  "catalog_no": "HY-12396",
+  "pubchem_cid": "2155",
+  "related_bid": 372263,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64b6"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Amphotericin A",
+  "catalog_no": "HY-125682",
+  "pubchem_cid": "10440839",
+  "related_bid": 1665486,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64b7"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Griseofulvin-d<sub>3</sub>",
+  "catalog_no": "HY-17583S",
+  "pubchem_cid": "0",
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64b8"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Neticonazole",
+  "catalog_no": "HY-106541",
+  "pubchem_cid": "5282433",
+  "related_bid": 145885,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64b9"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Monensin sodium",
+  "catalog_no": "HY-N0150",
+  "pubchem_cid": "23667299",
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64ba"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Chlordantoin",
+  "catalog_no": "HY-100267",
+  "pubchem_cid": "21782",
+  "related_bid": 1207556,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64bb"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Bergenin (Standard)",
+  "catalog_no": "HY-N0017R",
+  "pubchem_cid": "0",
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64bc"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Cyclo(L-leucyl-L-valyl)",
+  "catalog_no": "HY-N12056",
+  "pubchem_cid": "25220884",
+  "related_bid": 3395820,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64bd"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Bikaverin",
+  "catalog_no": "HY-121004",
+  "pubchem_cid": "36433",
+  "related_bid": 1667059,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64be"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Rilopirox",
+  "catalog_no": "HY-113863",
+  "pubchem_cid": "71778",
+  "related_bid": 1679338,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64bf"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Terconazole",
+  "catalog_no": "HY-B1790",
+  "pubchem_cid": "441383",
+  "related_bid": 1682230,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64c0"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Thiophanate-Methyl",
+  "catalog_no": "HY-B0842",
+  "pubchem_cid": "3032791",
+  "related_bid": 132596,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64c1"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "1-Deacetylnimbolinin B",
+  "catalog_no": "HY-N1621",
+  "pubchem_cid": "91895443",
+  "related_bid": 1152361,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64c2"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Antifungal agent 55",
+  "catalog_no": "HY-153620",
+  "pubchem_cid": "162675953",
+  "related_bid": 12385181,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64c3"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Valtrate hydrine B4",
+  "catalog_no": "HY-N8173",
+  "pubchem_cid": "101380092",
+  "related_bid": 12425559,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64c4"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Pyrogallol",
+  "catalog_no": "HY-N1579",
+  "pubchem_cid": "1057",
+  "related_bid": 1678534,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64c5"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Antifungal agent 84",
+  "catalog_no": "HY-143334",
+  "pubchem_cid": "168277587",
+  "related_bid": 12401305,
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64c6"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Trigonelline-d<sub>3</sub> chloride",
+  "catalog_no": "HY-N0415S",
+  "pubchem_cid": "0",
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758e2ecf267b5bec64c7"
+  },
+  "main_product_name": "Azaconazole",
+  "related_product_name": "Bulnesol",
+  "catalog_no": "HY-N10014",
+  "pubchem_cid": "90785",
+  "main_bid": 1665902
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64c8"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "DRD2 Antibody",
+  "catalog_no": "HY-P81092",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64c9"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "MTNR1A Antibody",
+  "catalog_no": "HY-P81119",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64ca"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Dopamine Receptor D3 Antibody (YA1742)",
+  "catalog_no": "HY-P81997",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64cb"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "DOPA Decarboxylase Antibody (YA2428)",
+  "catalog_no": "HY-P82683",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64cc"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Torsin 1A Antibody (YA2935)",
+  "catalog_no": "HY-P83190",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64cd"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "PITX3 Antibody (YA2974)",
+  "catalog_no": "HY-P83229",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64ce"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "HMBS Antibody (YA3061)",
+  "catalog_no": "HY-P83316",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64cf"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Dopamine Receptor D1 Antibody (YA3270)",
+  "catalog_no": "HY-P83525",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64d0"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "SB 243213",
+  "catalog_no": "HY-103112B",
+  "pubchem_cid": "443391",
+  "related_bid": 1217195,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64d1"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Perphenazine-d<sub>8</sub> dihydrochloride",
+  "catalog_no": "HY-A0077AS",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64d2"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "(Rac)-SEP-363856",
+  "catalog_no": "HY-136109B",
+  "pubchem_cid": "68335002",
+  "related_bid": 12421871,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64d3"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Gamma-Mangostin (Standard)",
+  "catalog_no": "HY-N1957R",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64d4"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "GR65630",
+  "catalog_no": "HY-164083",
+  "pubchem_cid": "5311136",
+  "related_bid": 46687,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64d5"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "PF-03246799",
+  "catalog_no": "HY-119103",
+  "pubchem_cid": "25070582",
+  "related_bid": 1679695,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64d6"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "BL-1020 mesylate",
+  "catalog_no": "HY-111136",
+  "pubchem_cid": "154701740",
+  "related_bid": 12360944,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64d7"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Bromperidol-d<sub>4</sub>-1",
+  "catalog_no": "HY-B0901S1",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64d8"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Haloperidol",
+  "catalog_no": "HY-14538",
+  "pubchem_cid": "3559",
+  "related_bid": 65202,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64d9"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Adatanserin",
+  "catalog_no": "HY-121053",
+  "pubchem_cid": "130918",
+  "related_bid": 1666604,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f758f2ecf267b5bec64da"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "RC-106",
+  "catalog_no": "HY-158197",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64db"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Loxapine-d<sub>8</sub> hydrochloride",
+  "catalog_no": "HY-17390BS",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64dc"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "ARC 239",
+  "catalog_no": "HY-12709",
+  "pubchem_cid": "609483",
+  "related_bid": 1665597,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64dd"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Ondansetron-d<sub>3</sub>",
+  "catalog_no": "HY-B0002BS1",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64de"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "PG01037 dihydrochloride",
+  "catalog_no": "HY-103408",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64df"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Zotepine",
+  "catalog_no": "HY-103093",
+  "pubchem_cid": "5736",
+  "related_bid": 48254,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64e0"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Pimavanserin (Standard)",
+  "catalog_no": "HY-14557R",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64e1"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Paliperidone-d<sub>4</sub>",
+  "catalog_no": "HY-A0019S",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64e2"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Dehydroaripiprazole",
+  "catalog_no": "HY-100665",
+  "pubchem_cid": "10114519",
+  "related_bid": 194390,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64e3"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Nuciferine",
+  "catalog_no": "HY-N0049",
+  "pubchem_cid": "10146",
+  "related_bid": 1677029,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64e4"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Preclamol hydrochloride",
+  "catalog_no": "HY-108698",
+  "pubchem_cid": "11957669",
+  "related_bid": 1624389,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64e5"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Sonepiprazole",
+  "catalog_no": "HY-14328",
+  "pubchem_cid": "133079",
+  "related_bid": 1681054,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64e6"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Sigma-LIGAND-1 hydrochloride",
+  "catalog_no": "HY-101626A",
+  "pubchem_cid": "9890958",
+  "related_bid": 163890,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64e7"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Loxapine (Standard)",
+  "catalog_no": "HY-17390R",
+  "pubchem_cid": "0",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64e8"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Ziprasidone hydrochloride monohydrate",
+  "catalog_no": "HY-17407",
+  "pubchem_cid": "60853",
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64e9"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "CP94253",
+  "catalog_no": "HY-103151A",
+  "pubchem_cid": "4029677",
+  "related_bid": 152953,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64ea"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "WAY-100635 maleate",
+  "catalog_no": "HY-10349A",
+  "pubchem_cid": "11957721",
+  "related_bid": 1683584,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64eb"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Velusetrag",
+  "catalog_no": "HY-10457",
+  "pubchem_cid": "11842633",
+  "related_bid": 1683485,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64ec"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "(S)-Mirtazapine",
+  "catalog_no": "HY-B0352A",
+  "pubchem_cid": "3085218",
+  "related_bid": 128511,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75902ecf267b5bec64ed"
+  },
+  "main_product_name": "Captodiame",
+  "related_product_name": "Eletriptan",
+  "catalog_no": "HY-A0039",
+  "pubchem_cid": "77993",
+  "related_bid": 1671169,
+  "main_bid": 1668292
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64ee"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "BrdU Antibody (YA578)",
+  "catalog_no": "HY-P80038",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64ef"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "CD99 Antibody",
+  "catalog_no": "HY-P80070",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64f0"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "CD44 Antibody",
+  "catalog_no": "HY-P80062",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64f1"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "DYKDDDDK Tag (FLAG) Antibody",
+  "catalog_no": "HY-P80111",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64f2"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "GFP Antibody",
+  "catalog_no": "HY-P80141",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64f3"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Myc-tag Antibody",
+  "catalog_no": "HY-P80232",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64f4"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Ferritin Heavy Chain Antibody",
+  "catalog_no": "HY-P80670",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64f5"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "53BP1 Antibody",
+  "catalog_no": "HY-P80001",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64f6"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "CD9 Antibody (YA524)",
+  "catalog_no": "HY-P80068",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64f7"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "METTL3 Antibody",
+  "catalog_no": "HY-P80223",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64f8"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "NeuN Antibody",
+  "catalog_no": "HY-P80241",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64f9"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "p27 KIP 1 Antibody",
+  "catalog_no": "HY-P80256",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64fa"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Ubiquitin Antibody (YA022)",
+  "catalog_no": "HY-P80363",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64fb"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Beta Tubulin Antibody",
+  "catalog_no": "HY-P80487",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64fc"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "SQSTM1/p62 Antibody (YA669)",
+  "catalog_no": "HY-P80518",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64fd"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "TGF beta 1 Antibody",
+  "catalog_no": "HY-P80521",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64fe"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "CD45 Antibody (YA800)",
+  "catalog_no": "HY-P80603",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec64ff"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "CD63 Antibody",
+  "catalog_no": "HY-P80604",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec6500"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "CD81 Antibody",
+  "catalog_no": "HY-P80608",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec6501"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "CD9 Antibody",
+  "catalog_no": "HY-P80610",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec6502"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "p38 Antibody",
+  "catalog_no": "HY-P80777",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec6503"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "SQSTM1/p62 Antibody (YA062)",
+  "catalog_no": "HY-P80899",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec6504"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "xCT Antibody (YA006)",
+  "catalog_no": "HY-P80935",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec6505"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "CD40L Antibody",
+  "catalog_no": "HY-P80057",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec6506"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "CD45 Antibody (YA533)",
+  "catalog_no": "HY-P80063",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75912ecf267b5bec6507"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "CD68 Antibody (YA798)",
+  "catalog_no": "HY-P80066",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6508"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "CD68 Antibody (YA529)",
+  "catalog_no": "HY-P80067",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6509"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "CD90 Antibody",
+  "catalog_no": "HY-P80069",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec650a"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Clathrin heavy chain Antibody",
+  "catalog_no": "HY-P80086",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec650b"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Cyclophilin A Antibody",
+  "catalog_no": "HY-P80101",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec650c"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Traxivitug",
+  "catalog_no": "HY-P990769",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec650d"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "BDC2.5 mimotope",
+  "catalog_no": "HY-P10512",
+  "pubchem_cid": "171904664",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec650e"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Antitumor agent-67",
+  "catalog_no": "HY-146114",
+  "pubchem_cid": "162663092",
+  "related_bid": 12403754,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec650f"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Anti-Mouse CD83 Antibody (Michel-17)",
+  "catalog_no": "HY-P990261",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6510"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Catechin 7-O-β-D-glucopyranoside",
+  "catalog_no": "HY-N10587",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6511"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "DA 1686",
+  "catalog_no": "HY-120730",
+  "pubchem_cid": "202647",
+  "related_bid": 1669726,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6512"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Carbobenzoxyproline",
+  "catalog_no": "HY-Y0588",
+  "pubchem_cid": "101987",
+  "related_bid": 94951,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6513"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "ATR-IN-9",
+  "catalog_no": "HY-145450",
+  "pubchem_cid": "155585610",
+  "related_bid": 12417290,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6514"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "TBTDC",
+  "catalog_no": "HY-145241",
+  "pubchem_cid": "162679300",
+  "related_bid": 12426008,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6515"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "DHT/KLH",
+  "catalog_no": "HY-161543",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6516"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Conagenin",
+  "catalog_no": "HY-119527",
+  "pubchem_cid": "9881406",
+  "related_bid": 1669308,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6517"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Anti-AXL/UFO Antibody (ORY012)",
+  "catalog_no": "HY-P990339",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6518"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Peucenin 7-O-methyl ether",
+  "catalog_no": "HY-N10994",
+  "pubchem_cid": "615800",
+  "related_bid": 80535,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6519"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "6-Hydroxy-4-methylcoumarin",
+  "catalog_no": "HY-N6658",
+  "pubchem_cid": "75409",
+  "related_bid": 191455,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec651a"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Anti-Mouse IL-27 p28 Antibody (MM27.7B1)",
+  "catalog_no": "HY-P990215",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec651b"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "AMT-NHS",
+  "catalog_no": "HY-150014",
+  "pubchem_cid": "164887507",
+  "related_bid": 10857153,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec651c"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Nylidrin hydrochloride",
+  "catalog_no": "HY-B1404",
+  "pubchem_cid": "5702098",
+  "related_bid": 1677060,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec651d"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Pyrogallol triacetate",
+  "catalog_no": "HY-116209",
+  "pubchem_cid": "10678",
+  "related_bid": 1678535,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec651e"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Rat IgG2a kappa, Isotype Control",
+  "catalog_no": "HY-P990679",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec651f"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "D-(+)-Fucose",
+  "catalog_no": "HY-N5102",
+  "pubchem_cid": "94270",
+  "related_bid": 118439,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6520"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "OVA Peptide (323-339)",
+  "catalog_no": "HY-P0286",
+  "pubchem_cid": "0",
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6521"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Hesperidin dihydrochalcone",
+  "catalog_no": "HY-164370",
+  "pubchem_cid": "155887799",
+  "related_bid": 12110229,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6522"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Bletilloside A",
+  "catalog_no": "HY-N8177",
+  "pubchem_cid": "134715144",
+  "related_bid": 11938788,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6523"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Transcriptional Intermediary Factor 2 (TIF2) (740-753)",
+  "catalog_no": "HY-P2515",
+  "pubchem_cid": "137646168",
+  "related_bid": 13925274,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6524"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Dicyclohexyl carbonate",
+  "catalog_no": "HY-W102677",
+  "pubchem_cid": "138235",
+  "related_bid": 57173,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6525"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Pep-1 (uncapped)",
+  "catalog_no": "HY-P1848",
+  "pubchem_cid": "16199972",
+  "related_bid": 612563,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6526"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Aspochalasin M",
+  "catalog_no": "HY-117220",
+  "pubchem_cid": "137700389",
+  "related_bid": 2481514,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6527"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "Dihydrofuran-3(2H)-one",
+  "catalog_no": "HY-33900",
+  "pubchem_cid": "529392",
+  "related_bid": 156105,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6528"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "BPK-29 hydrochloride",
+  "catalog_no": "HY-122054A",
+  "pubchem_cid": "139035041",
+  "related_bid": 2464641,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75922ecf267b5bec6529"
+  },
+  "main_product_name": "Leptolstatin",
+  "related_product_name": "pppApG",
+  "catalog_no": "HY-137660",
+  "pubchem_cid": "139593611",
+  "related_bid": 12396839,
+  "main_bid": 608524
+},
+{
+  "_id": {
+    "$oid": "670f75932ecf267b5bec652a"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "ChAT Antibody",
+  "catalog_no": "HY-P81100",
+  "pubchem_cid": "0",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75932ecf267b5bec652b"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "CHRNA9 Antibody",
+  "catalog_no": "HY-P81023",
+  "pubchem_cid": "0",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75932ecf267b5bec652c"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "PCS1055",
+  "catalog_no": "HY-122203A",
+  "pubchem_cid": "10894911",
+  "related_bid": 10822318,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75932ecf267b5bec652d"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "AChE-IN-49",
+  "catalog_no": "HY-161058",
+  "pubchem_cid": "170453117",
+  "related_bid": 12367227,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75932ecf267b5bec652e"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Chlorpyrifos (Standard)",
+  "catalog_no": "HY-B0815R",
+  "pubchem_cid": "0",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75932ecf267b5bec652f"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Huperzine C",
+  "catalog_no": "HY-122957",
+  "pubchem_cid": "10198698",
+  "related_bid": 169959,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6530"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Picfeltarraegenin X",
+  "catalog_no": "HY-N2219",
+  "pubchem_cid": "102004844",
+  "related_bid": 591414,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6531"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "ACG548B",
+  "catalog_no": "HY-122140",
+  "pubchem_cid": "11366263",
+  "related_bid": 1664997,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6532"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Dihydrowithaferin A",
+  "catalog_no": "HY-N5120",
+  "pubchem_cid": "15411208",
+  "related_bid": 1253223,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6533"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Edrophonium chloride",
+  "catalog_no": "HY-B0882",
+  "pubchem_cid": "8307",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6534"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Neostigmine methyl sulfate (Standard)",
+  "catalog_no": "HY-B1206R",
+  "pubchem_cid": "0",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6535"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Violanthin",
+  "catalog_no": "HY-N6895",
+  "pubchem_cid": "442665",
+  "related_bid": 1200089,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6536"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "SB-1436",
+  "catalog_no": "HY-149300",
+  "pubchem_cid": "170901545",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6537"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Isomerazin (Standard)",
+  "catalog_no": "HY-N3468R",
+  "pubchem_cid": "0",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6538"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "(±)-Acetylcarnitine chloride",
+  "catalog_no": "HY-100907",
+  "pubchem_cid": "0",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6539"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "BChE-IN-14",
+  "catalog_no": "HY-151389",
+  "pubchem_cid": "156786215",
+  "related_bid": 12397589,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec653a"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Piperilate",
+  "catalog_no": "HY-105790",
+  "pubchem_cid": "20674",
+  "related_bid": 1221453,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec653b"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Fustin",
+  "catalog_no": "HY-N8376",
+  "pubchem_cid": "5317435",
+  "related_bid": 190385,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec653c"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Vincosamide",
+  "catalog_no": "HY-N1089",
+  "pubchem_cid": "10163855",
+  "related_bid": 122176,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec653d"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "BChE-IN-17",
+  "catalog_no": "HY-155140",
+  "pubchem_cid": "168476161",
+  "related_bid": 12387396,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec653e"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Trimedoxime",
+  "catalog_no": "HY-165600A",
+  "pubchem_cid": "135565598",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec653f"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "ChEs/MAOs-IN-2",
+  "catalog_no": "HY-158092",
+  "pubchem_cid": "0",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6540"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Isoimperatorin",
+  "catalog_no": "HY-N0286",
+  "pubchem_cid": "68081",
+  "related_bid": 1672244,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6541"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "hAChE-IN-1",
+  "catalog_no": "HY-149233",
+  "pubchem_cid": "168355505",
+  "related_bid": 12404693,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6542"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "sEH/AChE-IN-1",
+  "catalog_no": "HY-145831",
+  "pubchem_cid": "0",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6543"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Sinapine thiocyanate",
+  "catalog_no": "HY-N0450",
+  "pubchem_cid": "22155122",
+  "related_bid": 192392,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6544"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Galanthamine-d<sub>3</sub> hydrochloride",
+  "catalog_no": "HY-76299S2",
+  "pubchem_cid": "0",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6545"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Pirimiphos-methyl (Standard)",
+  "catalog_no": "HY-B1881R",
+  "pubchem_cid": "0",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6546"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Trimyristin--d<sub>15</sub>",
+  "catalog_no": "HY-N2511S",
+  "pubchem_cid": "0",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6547"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Trimethylammonium chloride (Standard)",
+  "catalog_no": "HY-Y0504R",
+  "pubchem_cid": "0",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6548"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "Huperzine B (Standard)",
+  "catalog_no": "HY-N2043R",
+  "pubchem_cid": "0",
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75942ecf267b5bec6549"
+  },
+  "main_product_name": "Pridinol",
+  "related_product_name": "MAO-B-IN-24",
+  "catalog_no": "HY-149528",
+  "pubchem_cid": "168679702",
+  "related_bid": 12388638,
+  "main_bid": 1678096
+},
+{
+  "_id": {
+    "$oid": "670f75952ecf267b5bec654a"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "alpha Tubulin Antibody",
+  "catalog_no": "HY-P80538",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75952ecf267b5bec654b"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Beta Tubulin Antibody",
+  "catalog_no": "HY-P80487",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75952ecf267b5bec654c"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "beta Tubulin Antibody (YA839)",
+  "catalog_no": "HY-P80955",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75952ecf267b5bec654d"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Doublecortin Antibody",
+  "catalog_no": "HY-P80108",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75952ecf267b5bec654e"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "LC3B Antibody (YA308)",
+  "catalog_no": "HY-P80209",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec654f"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Stathmin 1 Antibody (YA049)",
+  "catalog_no": "HY-P80348",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6550"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Stathmin 1 Antibody (YA050)",
+  "catalog_no": "HY-P80349",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6551"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "alpha Tubulin (acetyl K40) Antibody",
+  "catalog_no": "HY-P80485",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6552"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "beta III Tubulin Antibody",
+  "catalog_no": "HY-P80570",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6553"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "gamma Tubulin Antibody",
+  "catalog_no": "HY-P80684",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6554"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Cytokeratin 5 Antibody",
+  "catalog_no": "HY-P80984",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6555"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "MAP2 Antibody",
+  "catalog_no": "HY-P81053",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6556"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "CK18 Antibody",
+  "catalog_no": "HY-P81181",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6557"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Cytokeratin 19 Antibody",
+  "catalog_no": "HY-P81183",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6558"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "p63 Antibody (YA1531)",
+  "catalog_no": "HY-P81786",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6559"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Cytokeratin 6 Antibody (YA1701)",
+  "catalog_no": "HY-P81956",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec655a"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "HSD17B1 Antibody (YA3048)",
+  "catalog_no": "HY-P83303",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec655b"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "TCTP Antibody",
+  "catalog_no": "HY-P80943",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec655c"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Beta Tubulin Antibody (HRP) (YA865)",
+  "catalog_no": "HY-P80955A",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec655d"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Cytokeratin 20 Antibody",
+  "catalog_no": "HY-P80982",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec655e"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "DM1 Antibody (YA898)",
+  "catalog_no": "HY-P81055",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec655f"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Cytokeratin 19 Antibody (YA924)",
+  "catalog_no": "HY-P81250",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6560"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Cytokeratin 16 Antibody (YA948)",
+  "catalog_no": "HY-P81266",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6561"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Cytokeratin 16 Antibody (YA949)",
+  "catalog_no": "HY-P81266A",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6562"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Cytokeratin 7 Antibody (YA950)",
+  "catalog_no": "HY-P81267",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6563"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Cytokeratin 7 Antibody (YA951)",
+  "catalog_no": "HY-P81267A",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6564"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Cytokeratin 7 Antibody (YA952)",
+  "catalog_no": "HY-P81267B",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6565"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Cytokeratin pan Antibody (YA953)",
+  "catalog_no": "HY-P81268",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6566"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Cytokeratin pan Antibody (YA954)",
+  "catalog_no": "HY-P81268A",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6567"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "HRPT2/Parafibromin Antibody (YA1200)",
+  "catalog_no": "HY-P81455",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6568"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Tirbanibulin dihydrochloride",
+  "catalog_no": "HY-10340A",
+  "pubchem_cid": "24989633",
+  "related_bid": 1662809,
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6569"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Tubulysin IM-3",
+  "catalog_no": "HY-130960",
+  "pubchem_cid": "117732206",
+  "related_bid": 12423638,
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec656a"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "AMXI-5001 hydrochloride",
+  "catalog_no": "HY-145734A",
+  "pubchem_cid": "163196447",
+  "related_bid": 12421924,
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec656b"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Tubulin/NEDDylation-IN-1",
+  "catalog_no": "HY-163105",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec656c"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "TAM557 TFA",
+  "catalog_no": "HY-160473A",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec656d"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Vinorelbine ditartrate (Standard)",
+  "catalog_no": "HY-12053AR",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec656e"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Tubulin polymerization-IN-21",
+  "catalog_no": "HY-146164",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec656f"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Vinorelbine",
+  "catalog_no": "HY-12053",
+  "pubchem_cid": "5311497",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6570"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Dolastatin 10",
+  "catalog_no": "HY-15580",
+  "pubchem_cid": "9810929",
+  "related_bid": 1670874,
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6571"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "3,4',5-Trismethoxybenzophenone",
+  "catalog_no": "HY-120890",
+  "pubchem_cid": "24261633",
+  "related_bid": 1604346,
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6572"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "SB-216",
+  "catalog_no": "HY-144898",
+  "pubchem_cid": "156599523",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6573"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Tubulin inhibitor 46",
+  "catalog_no": "HY-161747",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6574"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "MAP4343",
+  "catalog_no": "HY-107116",
+  "pubchem_cid": "233254",
+  "related_bid": 1618461,
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6575"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "KIF18A-IN-11",
+  "catalog_no": "HY-158683",
+  "pubchem_cid": "171714027",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6576"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "2'-O-TBDMS-Paclitaxel",
+  "catalog_no": "HY-164272",
+  "pubchem_cid": "14060314",
+  "related_bid": 7826213,
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6577"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Auristatin E (GMP)",
+  "catalog_no": "HY-15582G",
+  "pubchem_cid": "11498622",
+  "related_bid": 1665329,
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6578"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Bicyclol",
+  "catalog_no": "HY-B0766",
+  "pubchem_cid": "9821754",
+  "related_bid": 1666982,
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec6579"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Fosbretabulin",
+  "catalog_no": "HY-14815",
+  "pubchem_cid": "5351387",
+  "related_bid": 40576,
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec657a"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "KIF18A-IN-12",
+  "catalog_no": "HY-158757",
+  "pubchem_cid": "171487892",
+  "related_bid": 12360162,
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec657b"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "KIF18A-IN-13",
+  "catalog_no": "HY-162937",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec657c"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Tubulin polymerization-IN-8",
+  "catalog_no": "HY-143447",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75962ecf267b5bec657d"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Tubulysin IM-1",
+  "catalog_no": "HY-130958",
+  "pubchem_cid": "146681189",
+  "related_bid": 11934591,
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75972ecf267b5bec657e"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "NH2-PEG3-VC-PAB-MMAE",
+  "catalog_no": "HY-164239",
+  "pubchem_cid": "171904696",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75972ecf267b5bec657f"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Colchicine-d<sub>3</sub>",
+  "catalog_no": "HY-16569S1",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75972ecf267b5bec6580"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "2-Methoxyestradiol-<sup>13</sup>C,d<sub>3</sub>",
+  "catalog_no": "HY-12033S",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75972ecf267b5bec6581"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Taltobulin",
+  "catalog_no": "HY-15584",
+  "pubchem_cid": "6918637",
+  "related_bid": 1684106,
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75972ecf267b5bec6582"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Albendazole",
+  "catalog_no": "HY-B0223",
+  "pubchem_cid": "2082",
+  "related_bid": 1665689,
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75972ecf267b5bec6583"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Lisavanbulin",
+  "catalog_no": "HY-19916",
+  "pubchem_cid": "45259014",
+  "related_bid": 1194490,
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75972ecf267b5bec6584"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "Tubulin/PARP-IN-2",
+  "catalog_no": "HY-157320",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75972ecf267b5bec6585"
+  },
+  "main_product_name": "Pregnenolone acetate",
+  "related_product_name": "DM4-d<sub>6</sub>",
+  "catalog_no": "HY-12454S",
+  "pubchem_cid": "0",
+  "main_bid": 192163
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec6586"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "ADRB2 Antibody",
+  "catalog_no": "HY-P81085",
+  "pubchem_cid": "0",
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec6587"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Salbutamol Antibody (YA901)",
+  "catalog_no": "HY-P81058",
+  "pubchem_cid": "0",
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec6588"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Clenbuterol Antibody (YA904)",
+  "catalog_no": "HY-P81061",
+  "pubchem_cid": "0",
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec6589"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "alpha 1a Adrenergic Receptor Antibody (YA2059)",
+  "catalog_no": "HY-P82314",
+  "pubchem_cid": "0",
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec658a"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Perphenazine-d<sub>8</sub> dihydrochloride",
+  "catalog_no": "HY-A0077AS",
+  "pubchem_cid": "0",
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec658b"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Desglymidodrine",
+  "catalog_no": "HY-114794",
+  "pubchem_cid": "43260",
+  "related_bid": 1670291,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec658c"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "PF-610355",
+  "catalog_no": "HY-14296",
+  "pubchem_cid": "11505444",
+  "related_bid": 1679667,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec658d"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "L-Epinephrine sulfate",
+  "catalog_no": "HY-122304",
+  "pubchem_cid": "0",
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec658e"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Picumeterol",
+  "catalog_no": "HY-124950",
+  "pubchem_cid": "131251",
+  "related_bid": 1677864,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec658f"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Nadolol",
+  "catalog_no": "HY-B0804",
+  "pubchem_cid": "39147",
+  "related_bid": 74898,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec6590"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "ARC 239",
+  "catalog_no": "HY-12709",
+  "pubchem_cid": "609483",
+  "related_bid": 1665597,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec6591"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Todralazine",
+  "catalog_no": "HY-B1001",
+  "pubchem_cid": "5501",
+  "related_bid": 1682392,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec6592"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Amibegron hydrochloride",
+  "catalog_no": "HY-103207",
+  "pubchem_cid": "121888",
+  "related_bid": 1662959,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec6593"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "N-5984",
+  "catalog_no": "HY-117378",
+  "pubchem_cid": "9865284",
+  "related_bid": 1676890,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec6594"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Zotepine",
+  "catalog_no": "HY-103093",
+  "pubchem_cid": "5736",
+  "related_bid": 48254,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec6595"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "PROTAC AR/AR-V7 degrader-1",
+  "catalog_no": "HY-162412",
+  "pubchem_cid": "0",
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec6596"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Paliperidone-d<sub>4</sub>",
+  "catalog_no": "HY-A0019S",
+  "pubchem_cid": "0",
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec6597"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "BMS-194449",
+  "catalog_no": "HY-118141",
+  "pubchem_cid": "9872113",
+  "related_bid": 1667179,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec6598"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Clenproperol-d<sub>7</sub>",
+  "catalog_no": "HY-100699S",
+  "pubchem_cid": "0",
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec6599"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "(R)-(+)-Atenolol",
+  "catalog_no": "HY-B2111",
+  "pubchem_cid": "180559",
+  "related_bid": 1678819,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec659a"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Salbutamol",
+  "catalog_no": "HY-B1037",
+  "pubchem_cid": "2083",
+  "related_bid": 1663637,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec659b"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Formoterol fumarate",
+  "catalog_no": "HY-B0010",
+  "pubchem_cid": "9832292",
+  "related_bid": 10761848,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec659c"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Delequamine hydrochloride",
+  "catalog_no": "HY-106874A",
+  "pubchem_cid": "168898",
+  "related_bid": 1670216,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec659d"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Metoprolol-d<sub>6</sub> tartrate",
+  "catalog_no": "HY-17503BS",
+  "pubchem_cid": "0",
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec659e"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "4-Hydroxypropranolol hydrochloride (Standard)",
+  "catalog_no": "HY-100634R",
+  "pubchem_cid": "0",
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec659f"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Moprolol",
+  "catalog_no": "HY-108306",
+  "pubchem_cid": "71213",
+  "related_bid": 1676737,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec65a0"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Clonidine-d<sub>4</sub> hydrochloride",
+  "catalog_no": "HY-12721S",
+  "pubchem_cid": "0",
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec65a1"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Pindolol-d<sub>7</sub>",
+  "catalog_no": "HY-B0982S",
+  "pubchem_cid": "0",
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec65a2"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "N-1518",
+  "catalog_no": "HY-19012",
+  "pubchem_cid": "146778",
+  "related_bid": 1677606,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec65a3"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Corynanthine",
+  "catalog_no": "HY-118638",
+  "pubchem_cid": "92766",
+  "related_bid": 1669447,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec65a4"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Clorprenaline",
+  "catalog_no": "HY-134577",
+  "pubchem_cid": "2810",
+  "related_bid": 1201906,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec65a5"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Nifenalol hydrochloride",
+  "catalog_no": "HY-100952",
+  "pubchem_cid": "6316",
+  "related_bid": 1678856,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec65a6"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Trifluoperazine dihydrochloride",
+  "catalog_no": "HY-B0532A",
+  "pubchem_cid": "66064",
+  "related_bid": 1683243,
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f75982ecf267b5bec65a7"
+  },
+  "main_product_name": "Salmefamol",
+  "related_product_name": "Salbutamol (Standard)",
+  "catalog_no": "HY-B1037R",
+  "pubchem_cid": "0",
+  "main_bid": 102908
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65a8"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "BrdU Antibody (YA578)",
+  "catalog_no": "HY-P80038",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65a9"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "CD99 Antibody",
+  "catalog_no": "HY-P80070",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65aa"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "CD44 Antibody",
+  "catalog_no": "HY-P80062",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65ab"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "DYKDDDDK Tag (FLAG) Antibody",
+  "catalog_no": "HY-P80111",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65ac"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "GFP Antibody",
+  "catalog_no": "HY-P80141",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65ad"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Myc-tag Antibody",
+  "catalog_no": "HY-P80232",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65ae"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Ferritin Heavy Chain Antibody",
+  "catalog_no": "HY-P80670",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65af"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "53BP1 Antibody",
+  "catalog_no": "HY-P80001",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65b0"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "CD9 Antibody (YA524)",
+  "catalog_no": "HY-P80068",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65b1"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "METTL3 Antibody",
+  "catalog_no": "HY-P80223",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65b2"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "NeuN Antibody",
+  "catalog_no": "HY-P80241",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65b3"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "p27 KIP 1 Antibody",
+  "catalog_no": "HY-P80256",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65b4"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Ubiquitin Antibody (YA022)",
+  "catalog_no": "HY-P80363",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65b5"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Beta Tubulin Antibody",
+  "catalog_no": "HY-P80487",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65b6"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "SQSTM1/p62 Antibody (YA669)",
+  "catalog_no": "HY-P80518",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65b7"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "TGF beta 1 Antibody",
+  "catalog_no": "HY-P80521",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65b8"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "CD45 Antibody (YA800)",
+  "catalog_no": "HY-P80603",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65b9"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "CD63 Antibody",
+  "catalog_no": "HY-P80604",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65ba"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "CD81 Antibody",
+  "catalog_no": "HY-P80608",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65bb"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "CD9 Antibody",
+  "catalog_no": "HY-P80610",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65bc"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "p38 Antibody",
+  "catalog_no": "HY-P80777",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65bd"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "SQSTM1/p62 Antibody (YA062)",
+  "catalog_no": "HY-P80899",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65be"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "xCT Antibody (YA006)",
+  "catalog_no": "HY-P80935",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65bf"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "CD40L Antibody",
+  "catalog_no": "HY-P80057",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65c0"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "CD45 Antibody (YA533)",
+  "catalog_no": "HY-P80063",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65c1"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "CD68 Antibody (YA798)",
+  "catalog_no": "HY-P80066",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65c2"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "CD68 Antibody (YA529)",
+  "catalog_no": "HY-P80067",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65c3"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "CD90 Antibody",
+  "catalog_no": "HY-P80069",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65c4"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Clathrin heavy chain Antibody",
+  "catalog_no": "HY-P80086",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65c5"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Cyclophilin A Antibody",
+  "catalog_no": "HY-P80101",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759a2ecf267b5bec65c6"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Traxivitug",
+  "catalog_no": "HY-P990769",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65c7"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "BDC2.5 mimotope",
+  "catalog_no": "HY-P10512",
+  "pubchem_cid": "171904664",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65c8"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Antitumor agent-67",
+  "catalog_no": "HY-146114",
+  "pubchem_cid": "162663092",
+  "related_bid": 12403754,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65c9"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Anti-Mouse CD83 Antibody (Michel-17)",
+  "catalog_no": "HY-P990261",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65ca"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Catechin 7-O-β-D-glucopyranoside",
+  "catalog_no": "HY-N10587",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65cb"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "DA 1686",
+  "catalog_no": "HY-120730",
+  "pubchem_cid": "202647",
+  "related_bid": 1669726,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65cc"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Carbobenzoxyproline",
+  "catalog_no": "HY-Y0588",
+  "pubchem_cid": "101987",
+  "related_bid": 94951,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65cd"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "ATR-IN-9",
+  "catalog_no": "HY-145450",
+  "pubchem_cid": "155585610",
+  "related_bid": 12417290,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65ce"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "TBTDC",
+  "catalog_no": "HY-145241",
+  "pubchem_cid": "162679300",
+  "related_bid": 12426008,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65cf"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "DHT/KLH",
+  "catalog_no": "HY-161543",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65d0"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Conagenin",
+  "catalog_no": "HY-119527",
+  "pubchem_cid": "9881406",
+  "related_bid": 1669308,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65d1"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Anti-AXL/UFO Antibody (ORY012)",
+  "catalog_no": "HY-P990339",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65d2"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Peucenin 7-O-methyl ether",
+  "catalog_no": "HY-N10994",
+  "pubchem_cid": "615800",
+  "related_bid": 80535,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65d3"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "6-Hydroxy-4-methylcoumarin",
+  "catalog_no": "HY-N6658",
+  "pubchem_cid": "75409",
+  "related_bid": 191455,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65d4"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Anti-Mouse IL-27 p28 Antibody (MM27.7B1)",
+  "catalog_no": "HY-P990215",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65d5"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "AMT-NHS",
+  "catalog_no": "HY-150014",
+  "pubchem_cid": "164887507",
+  "related_bid": 10857153,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65d6"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Nylidrin hydrochloride",
+  "catalog_no": "HY-B1404",
+  "pubchem_cid": "5702098",
+  "related_bid": 1677060,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65d7"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Pyrogallol triacetate",
+  "catalog_no": "HY-116209",
+  "pubchem_cid": "10678",
+  "related_bid": 1678535,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65d8"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Rat IgG2a kappa, Isotype Control",
+  "catalog_no": "HY-P990679",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65d9"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "D-(+)-Fucose",
+  "catalog_no": "HY-N5102",
+  "pubchem_cid": "94270",
+  "related_bid": 118439,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65da"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "OVA Peptide (323-339)",
+  "catalog_no": "HY-P0286",
+  "pubchem_cid": "0",
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65db"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Hesperidin dihydrochalcone",
+  "catalog_no": "HY-164370",
+  "pubchem_cid": "155887799",
+  "related_bid": 12110229,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65dc"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Bletilloside A",
+  "catalog_no": "HY-N8177",
+  "pubchem_cid": "134715144",
+  "related_bid": 11938788,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65dd"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Transcriptional Intermediary Factor 2 (TIF2) (740-753)",
+  "catalog_no": "HY-P2515",
+  "pubchem_cid": "137646168",
+  "related_bid": 13925274,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65de"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Dicyclohexyl carbonate",
+  "catalog_no": "HY-W102677",
+  "pubchem_cid": "138235",
+  "related_bid": 57173,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65df"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Pep-1 (uncapped)",
+  "catalog_no": "HY-P1848",
+  "pubchem_cid": "16199972",
+  "related_bid": 612563,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65e0"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Aspochalasin M",
+  "catalog_no": "HY-117220",
+  "pubchem_cid": "137700389",
+  "related_bid": 2481514,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65e1"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "Dihydrofuran-3(2H)-one",
+  "catalog_no": "HY-33900",
+  "pubchem_cid": "529392",
+  "related_bid": 156105,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65e2"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "BPK-29 hydrochloride",
+  "catalog_no": "HY-122054A",
+  "pubchem_cid": "139035041",
+  "related_bid": 2464641,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759b2ecf267b5bec65e3"
+  },
+  "main_product_name": "Oxolamine hydrochloride",
+  "related_product_name": "pppApG",
+  "catalog_no": "HY-137660",
+  "pubchem_cid": "139593611",
+  "related_bid": 12396839,
+  "main_bid": 1678062
+},
+{
+  "_id": {
+    "$oid": "670f759c2ecf267b5bec65e4"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "BrdU Antibody (YA578)",
+  "catalog_no": "HY-P80038",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759c2ecf267b5bec65e5"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "CD99 Antibody",
+  "catalog_no": "HY-P80070",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759c2ecf267b5bec65e6"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "CD44 Antibody",
+  "catalog_no": "HY-P80062",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759c2ecf267b5bec65e7"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "DYKDDDDK Tag (FLAG) Antibody",
+  "catalog_no": "HY-P80111",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759c2ecf267b5bec65e8"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "GFP Antibody",
+  "catalog_no": "HY-P80141",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759c2ecf267b5bec65e9"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Myc-tag Antibody",
+  "catalog_no": "HY-P80232",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759c2ecf267b5bec65ea"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Ferritin Heavy Chain Antibody",
+  "catalog_no": "HY-P80670",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759c2ecf267b5bec65eb"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "53BP1 Antibody",
+  "catalog_no": "HY-P80001",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65ec"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "CD9 Antibody (YA524)",
+  "catalog_no": "HY-P80068",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65ed"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "METTL3 Antibody",
+  "catalog_no": "HY-P80223",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65ee"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "NeuN Antibody",
+  "catalog_no": "HY-P80241",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65ef"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "p27 KIP 1 Antibody",
+  "catalog_no": "HY-P80256",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65f0"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Ubiquitin Antibody (YA022)",
+  "catalog_no": "HY-P80363",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65f1"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Beta Tubulin Antibody",
+  "catalog_no": "HY-P80487",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65f2"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "SQSTM1/p62 Antibody (YA669)",
+  "catalog_no": "HY-P80518",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65f3"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "TGF beta 1 Antibody",
+  "catalog_no": "HY-P80521",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65f4"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "CD45 Antibody (YA800)",
+  "catalog_no": "HY-P80603",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65f5"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "CD63 Antibody",
+  "catalog_no": "HY-P80604",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65f6"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "CD81 Antibody",
+  "catalog_no": "HY-P80608",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65f7"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "CD9 Antibody",
+  "catalog_no": "HY-P80610",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65f8"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "p38 Antibody",
+  "catalog_no": "HY-P80777",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65f9"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "SQSTM1/p62 Antibody (YA062)",
+  "catalog_no": "HY-P80899",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65fa"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "xCT Antibody (YA006)",
+  "catalog_no": "HY-P80935",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65fb"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "CD40L Antibody",
+  "catalog_no": "HY-P80057",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65fc"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "CD45 Antibody (YA533)",
+  "catalog_no": "HY-P80063",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65fd"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "CD68 Antibody (YA798)",
+  "catalog_no": "HY-P80066",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65fe"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "CD68 Antibody (YA529)",
+  "catalog_no": "HY-P80067",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec65ff"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "CD90 Antibody",
+  "catalog_no": "HY-P80069",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6600"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Clathrin heavy chain Antibody",
+  "catalog_no": "HY-P80086",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6601"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Cyclophilin A Antibody",
+  "catalog_no": "HY-P80101",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6602"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Traxivitug",
+  "catalog_no": "HY-P990769",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6603"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "BDC2.5 mimotope",
+  "catalog_no": "HY-P10512",
+  "pubchem_cid": "171904664",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6604"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Antitumor agent-67",
+  "catalog_no": "HY-146114",
+  "pubchem_cid": "162663092",
+  "related_bid": 12403754,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6605"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Anti-Mouse CD83 Antibody (Michel-17)",
+  "catalog_no": "HY-P990261",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6606"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Catechin 7-O-β-D-glucopyranoside",
+  "catalog_no": "HY-N10587",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6607"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "DA 1686",
+  "catalog_no": "HY-120730",
+  "pubchem_cid": "202647",
+  "related_bid": 1669726,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6608"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Carbobenzoxyproline",
+  "catalog_no": "HY-Y0588",
+  "pubchem_cid": "101987",
+  "related_bid": 94951,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6609"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "ATR-IN-9",
+  "catalog_no": "HY-145450",
+  "pubchem_cid": "155585610",
+  "related_bid": 12417290,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec660a"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "TBTDC",
+  "catalog_no": "HY-145241",
+  "pubchem_cid": "162679300",
+  "related_bid": 12426008,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec660b"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "DHT/KLH",
+  "catalog_no": "HY-161543",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec660c"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Conagenin",
+  "catalog_no": "HY-119527",
+  "pubchem_cid": "9881406",
+  "related_bid": 1669308,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec660d"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Anti-AXL/UFO Antibody (ORY012)",
+  "catalog_no": "HY-P990339",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec660e"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Peucenin 7-O-methyl ether",
+  "catalog_no": "HY-N10994",
+  "pubchem_cid": "615800",
+  "related_bid": 80535,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec660f"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "6-Hydroxy-4-methylcoumarin",
+  "catalog_no": "HY-N6658",
+  "pubchem_cid": "75409",
+  "related_bid": 191455,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6610"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Anti-Mouse IL-27 p28 Antibody (MM27.7B1)",
+  "catalog_no": "HY-P990215",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6611"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "AMT-NHS",
+  "catalog_no": "HY-150014",
+  "pubchem_cid": "164887507",
+  "related_bid": 10857153,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6612"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Nylidrin hydrochloride",
+  "catalog_no": "HY-B1404",
+  "pubchem_cid": "5702098",
+  "related_bid": 1677060,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6613"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Pyrogallol triacetate",
+  "catalog_no": "HY-116209",
+  "pubchem_cid": "10678",
+  "related_bid": 1678535,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6614"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Rat IgG2a kappa, Isotype Control",
+  "catalog_no": "HY-P990679",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6615"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "D-(+)-Fucose",
+  "catalog_no": "HY-N5102",
+  "pubchem_cid": "94270",
+  "related_bid": 118439,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6616"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "OVA Peptide (323-339)",
+  "catalog_no": "HY-P0286",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6617"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Hesperidin dihydrochalcone",
+  "catalog_no": "HY-164370",
+  "pubchem_cid": "0",
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6618"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Bletilloside A",
+  "catalog_no": "HY-N8177",
+  "pubchem_cid": "134715144",
+  "related_bid": 11938788,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec6619"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Transcriptional Intermediary Factor 2 (TIF2) (740-753)",
+  "catalog_no": "HY-P2515",
+  "pubchem_cid": "137646168",
+  "related_bid": 13925274,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec661a"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Dicyclohexyl carbonate",
+  "catalog_no": "HY-W102677",
+  "pubchem_cid": "138235",
+  "related_bid": 57173,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec661b"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Pep-1 (uncapped)",
+  "catalog_no": "HY-P1848",
+  "pubchem_cid": "16199972",
+  "related_bid": 612563,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759d2ecf267b5bec661c"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Aspochalasin M",
+  "catalog_no": "HY-117220",
+  "pubchem_cid": "137700389",
+  "related_bid": 2481514,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759e2ecf267b5bec661d"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "Dihydrofuran-3(2H)-one",
+  "catalog_no": "HY-33900",
+  "pubchem_cid": "529392",
+  "related_bid": 156105,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759e2ecf267b5bec661e"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "BPK-29 hydrochloride",
+  "catalog_no": "HY-122054A",
+  "pubchem_cid": "139035041",
+  "related_bid": 2464641,
+  "main_bid": 2959140
+},
+{
+  "_id": {
+    "$oid": "670f759e2ecf267b5bec661f"
+  },
+  "main_product_name": "Sibiricaxanthone A",
+  "related_product_name": "pppApG",
+  "catalog_no": "HY-137660",
+  "pubchem_cid": "139593611",
+  "related_bid": 12396839,
+  "main_bid": 2959140
+}]
