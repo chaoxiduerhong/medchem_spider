@@ -204,6 +204,39 @@ class pageAction:
             pass
         return max_page
 
+    def parse_list__cls_hot_list(self):
+        """
+        解析包含组的分类
+        """
+        try:
+            item_soups = self.soup.find_all("div", class_="hot-list")[1:]
+            sub_catalog = []
+            for item_soup in item_soups:
+                title = item_soup.find("h2").get_text(strip=True)
+                link = ""
+                list_main_soup = item_soup.find("div", class_="list-main")
+                children_soups = list_main_soup.find_all("a")
+                child_data = []
+                for child in children_soups:
+                    sub_link = child.get("href")
+                    sub_title = child.get_text(strip=True)
+                    child_data.append({
+                        "title": sub_title,
+                        "link": sub_link,
+                        "type": "category",
+                        "children": []
+                    })
+                sub_catalog.append({
+                    "title": title,
+                    "link": link,
+                    "type": "group",
+                    "children": child_data
+                })
+            return sub_catalog
+
+        except Exception as e:
+            self.sysLog.log(f"by NaturalProducts top get failed")
+
 
     def get_catalog(self):
         """

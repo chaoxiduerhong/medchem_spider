@@ -4,30 +4,34 @@ with open("test.html", "r", encoding="utf-8") as f:
     soup = BeautifulSoup(f, "html.parser")
 
 
-def parse_lv_1(catalog_name="pathway"):
-    # pathway 顶级 的写法
+def parse_list__cls_hot_list():
     try:
-        div_soup = soup.select_one("div.pathway_list")
-        ul = div_soup.ul
+        item_soups = soup.find_all("div", class_="hot-list")[1:]
         sub_catalog = []
-        if ul:
-            for a in ul.find_all("a", href=True):
-                href = a["href"]
-                text = a.get_text(strip=True)  # 去除空格和换行
-                sub_catalog.append({
-                    "title": text,
-                    "link": href,
+        for item_soup in item_soups:
+            title = item_soup.find("h2").get_text(strip=True)
+            link = ""
+            list_main_soup = item_soup.find("div", class_="list-main")
+            children_soups = list_main_soup.find_all("a")
+            child_data = []
+            for child in children_soups:
+                sub_link = child.get("href")
+                sub_title = child.get_text(strip=True)
+                child_data.append({
+                    "title": sub_title,
+                    "link": sub_link,
+                    "type": "category",
                     "children": []
                 })
-        return {
-            "catalog":{
-                "current_data": {
-                    "title": catalog_name,
-                },
-                "queue_data": sub_catalog
-            }
-        }
-    except:
-        print("error")
+            sub_catalog.append({
+                "title": title,
+                "link": link,
+                "type": "group",
+                "children": child_data
+            })
+        return sub_catalog
 
-print(parse_lv_1())
+    except Exception as e:
+        print(f"by NaturalProducts top get failed")
+
+print(parse_list__cls_hot_list())

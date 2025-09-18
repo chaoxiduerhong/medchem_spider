@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 
 import utils.common
 from config import gpt_conf
-from spider.Action import pageAction
+from spider.NaturalAction import NaturalPageAction
 from spider.PathwayAction import PathwayPageAction
 from spider.logs.syslog import SysLog
 
@@ -191,11 +191,22 @@ class Base:
         soup = BeautifulSoup(content, 'html.parser')
 
         # 检测页面类型
-        self.pageAction = PathwayPageAction(thread_lock=self.lock, mark=self.mark, task_name=self.thread_name, soup=soup, url=task['spider_url'])
-        resp_data = self.pageAction.parse()
+        group_name = self.get_group_name()
+        if group_name == "pathway":
+            Action = PathwayPageAction(thread_lock=self.lock, mark=self.mark, task_name=self.thread_name, soup=soup, url=task['spider_url'])
+            resp_data = Action.parse()
+        elif group_name == "natural":
+            Action = NaturalPageAction(thread_lock=self.lock, mark=self.mark, task_name=self.thread_name,
+                                                soup=soup, url=task['spider_url'])
+            resp_data = Action.parse()
+
+            pass
+        else:
+            return None
+
         # print(json.dumps(resp_data, ensure_ascii=False, indent=4))
         print(resp_data)
-        group_name = self.get_group_name()
+
         # 数据解析
         if resp_data:
             # 分类处理
