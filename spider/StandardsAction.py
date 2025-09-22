@@ -17,72 +17,54 @@ from bs4 import BeautifulSoup
 
 from spider.Action import pageAction
 
-class PathwayPageAction(pageAction):
+class StandardsPageAction(pageAction):
     def __init__(self, thread_lock, mark, task_name, soup: BeautifulSoup, url):
-        super(PathwayPageAction, self).__init__(thread_lock, mark, task_name, soup, url)
+        super(StandardsPageAction, self).__init__(thread_lock, mark, task_name, soup, url)
 
     def get_current_lv(self):
         """
         检测当前页面的类别
         """
-        path = self.get_url_path()
-        path_obj = path.split("/")
+        bread_soup = self.soup.find("div", id="bread")
+        ol_lis = bread_soup.find_all("li")
 
-        if "pathway" == path.lower():
+        if len(ol_lis) == 2:
             return 1
 
-        if len(path_obj) == 2 and path_obj[0].lower() == "pathways":
+        if len(ol_lis) == 3:
             return 2
 
-        if len(path_obj) == 3 and path_obj[0].lower() == "pathways":
+        if len(ol_lis) == 4:
             return 3
 
-        if path_obj[0].lower() == "targets" and len(path_obj) == 2:
+        if len(ol_lis) == 5:
             return 4
-
-        if path_obj[0].lower() == "targets" and (len(path_obj) == 3 or len(path_obj) == 4):
-            return 5
 
         return None
 
 
     def parse_lv_1(self, catalog_name):
         # pathway 顶级 的写法
-        div_soup = self.soup.find("div", class_="pathway_list")
-        ul = div_soup.ul
-        sub_catalog = []
-        error = ""
-        if ul:
-            for a in ul.find_all("a", href=True):
-                href = a["href"]
-                text = a.get_text(strip=True)  # 去除空格和换行
-                sub_catalog.append({
-                    "title": text,
-                    "link": href,
-                    "type": "category",
-                    "children": []
-                })
-        if not sub_catalog:
-            error = "not_find_catalog"
         return self.std_data({
-            "catalog":{
+            "catalog": {
                 "current_data": {
                     "title": catalog_name,
                 },
-                "queue_data": sub_catalog
-            },
-            "error": error,
+                "queue_data": self.parse_list__cls_hot_list()
+            }
         })
 
 
     def parse_lv_2(self, catalog_name):
         """
         二级分类获取
-        target_list
+        第二级已经开始有产品和分类了
+
         """
         queue_data = self.parse_target_list()
-        if not queue_data:
-            queue_data = self.parse_cls_target_h3_href_list()
+        current_product = self.parse_product_list__cls_sub_ctg_list_con()
+        max_page = self.parse_ui_pager__product_page()
+        product_queue_data = [2, max_page]
 
         return self.std_data({
             "catalog": {
@@ -90,53 +72,6 @@ class PathwayPageAction(pageAction):
                     "title": catalog_name,
                 },
                 "queue_data": queue_data
-            }
-        })
-
-    def parse_lv_3(self, catalog_name):
-        """
-        三级分类获取
-        label-list
-        https://www.medchemexpress.com/Targets/dengue-virus.html
-        """
-        return self.std_data({
-            "catalog": {
-                "current_data": {
-                    "title": catalog_name,
-                },
-                "queue_data": self.parse_label_list()
-            }
-        })
-
-
-    def parse_lv_4(self, catalog_name):
-        """
-        该层包含了：
-        label div class = list-effect-main
-        product
-        """
-        # 获取当前页分类
-        catalog_category = self.parse_category__cls_isoform_list()
-
-        # 获取当前页labels
-        catalog_label = self.parse_effect_list_cls_effect_main()
-
-        # 分类聚合
-        catalog_data = catalog_category + catalog_label
-
-        # 获取当前页产品信息
-        current_product = self.parse_product_list__cls_sub_ctg_list_con()
-
-        # 这里要获取分页的复杂操作，最终由得生成lst 最大可能会上千。 如果检测到产品了，则其他页面起始页为2
-        max_page = self.parse_ui_pager__product_page()
-        product_queue_data = [2, max_page]
-
-        return self.std_data({
-            "catalog": {
-                "current_data": {
-                    "title": catalog_name,
-                },
-                "queue_data": catalog_data
             },
             "product": {
                 "current_data": current_product,
@@ -144,10 +79,39 @@ class PathwayPageAction(pageAction):
             },
         })
 
-    def parse_lv_5(self, catalog_name):
+    def parse_lv_3(self, catalog_name):
+        """
+        三级分类获取
+        部分有分类 部分没有分类
+        有分类的：https://www.medchemexpress.com/dyereagents/chemical-stain-analysis.html
+        """
+        queue_data = self.parse_target_list()
         current_product = self.parse_product_list__cls_sub_ctg_list_con()
         max_page = self.parse_ui_pager__product_page()
         product_queue_data = [2, max_page]
+
+        return self.std_data({
+            "catalog": {
+                "current_data": {
+                    "title": catalog_name,
+                },
+                "queue_data": queue_data
+            },
+            "product": {
+                "current_data": current_product,
+                "queue_data": product_queue_data
+            },
+        })
+
+
+    def parse_lv_4(self, catalog_name):
+        """
+        当前没发现该分类下有子分类的情况
+        """
+        current_product = self.parse_product_list__cls_sub_ctg_list_con()
+        max_page = self.parse_ui_pager__product_page()
+        product_queue_data = [2, max_page]
+
         return self.std_data({
             "catalog": {
                 "current_data": {
@@ -158,8 +122,9 @@ class PathwayPageAction(pageAction):
             "product": {
                 "current_data": current_product,
                 "queue_data": product_queue_data
-            }
+            },
         })
+
 
     def parse(self):
         """
@@ -211,7 +176,5 @@ class PathwayPageAction(pageAction):
             return self.parse_lv_3(catalog_name)
         if current_lv == 4:
             return self.parse_lv_4(catalog_name)
-        if current_lv == 5:
-            return self.parse_lv_5(catalog_name)
 
         return None

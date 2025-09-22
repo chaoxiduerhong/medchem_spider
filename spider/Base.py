@@ -14,6 +14,8 @@ import utils.common
 from config import gpt_conf
 from spider.NaturalAction import NaturalPageAction
 from spider.PathwayAction import PathwayPageAction
+from spider.PeptidesAction import PeptidesPageAction
+from spider.StandardsAction import StandardsPageAction
 from spider.logs.syslog import SysLog
 
 from models import MProduct, MCatalog, MTask, MProductsCategory
@@ -34,7 +36,7 @@ class Base:
         self.sysLog = SysLog(thread_lock=self.lock, browser_port=self.thread_name, mark=self.mark)
 
         # 测试bid
-        self.test_cid = "20250918153332-ID8M-RTkJ"
+        self.test_cid = None
 
     def get_thread_name(self, url:str):
         """
@@ -193,17 +195,17 @@ class Base:
         # 检测页面类型
         group_name = self.get_group_name()
         if group_name == "pathway":
-            Action = PathwayPageAction(thread_lock=self.lock, mark=self.mark, task_name=self.thread_name, soup=soup, url=task['spider_url'])
-            resp_data = Action.parse()
+            actionObject = PathwayPageAction(thread_lock=self.lock, mark=self.mark, task_name=self.thread_name, soup=soup, url=task['spider_url'])
         elif group_name == "natural":
-            Action = NaturalPageAction(thread_lock=self.lock, mark=self.mark, task_name=self.thread_name,
-                                                soup=soup, url=task['spider_url'])
-            resp_data = Action.parse()
-
-            pass
+            actionObject = NaturalPageAction(thread_lock=self.lock, mark=self.mark, task_name=self.thread_name, soup=soup, url=task['spider_url'])
+        elif group_name == "standards":
+            actionObject = StandardsPageAction(thread_lock=self.lock, mark=self.mark, task_name=self.thread_name, soup=soup, url=task['spider_url'])
+        elif group_name == "peptides":
+            actionObject = PeptidesPageAction(thread_lock=self.lock, mark=self.mark, task_name=task['spider_url'], soup=soup, url=task['spider_url'])
         else:
             return None
 
+        resp_data = actionObject.parse()
         # print(json.dumps(resp_data, ensure_ascii=False, indent=4))
         print(resp_data)
 

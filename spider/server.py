@@ -85,9 +85,13 @@ def proxy_issue_random():
     """
     直接获取一个随机代理。无需关心代理的质量
     """
-    data_list = MProxyQueue.get(condition={
-        "status": "running"
-    })
+    condition = {
+        "status": "running",
+        'remarks': {
+            "$regex": {"$nin": ["香港", "台湾"]}
+        }
+    }
+    data_list = MProxyQueue.get(condition=condition)
     data = None
     if data_list:
         data = random.choice(data_list)

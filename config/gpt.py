@@ -94,7 +94,7 @@ class gptConf:
         # "https://www.medchemexpress.com/standards.html",
         # "https://www.medchemexpress.com/peptides.html",
         # "https://www.medchemexpress.com/induced-disease-model.html",
-        # "https://www.medchemexpress.com/gmp-small-molecules.html"
+        # # "https://www.medchemexpress.com/gmp-small-molecules.html" # 不要了
     ]
 
     # 以最后一个为url节点作为匹配。该分类创建的页面后续分类还是这个
@@ -103,5 +103,6 @@ class gptConf:
         "natural": ['natural-products', 'oligonucleotides', 'isotope-compound', 'dye-reagents', 'inhibitory-antibodies', 'biochemical-assay-reagents', 'antibodies', 'enzyme'],
         "standards": ['standards'],
         'peptides': ['peptides', 'induced-disease-model'],
-        'gmp': ['gmp-small-molecules']
+
+        # 'gmp': ['gmp-small-molecules']
     }

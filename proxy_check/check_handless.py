@@ -68,7 +68,8 @@ class RequestThread(threading.Thread):
             url = "https://www.medchemexpress.com"
             print("current proxies", proxies)
             response = scraper.get(url, proxies=proxies)
-            if response.status_code == 200:
+            # 排除中国的
+            if response.status_code == 200 and "medchemexpress.cn" not in response.url:
                 return True
             return False
         except:
@@ -185,7 +186,7 @@ class RequestThread(threading.Thread):
                 proxy_total = len(proxy_list)
                 if proxy_total == 0:
                     self.plog("proxy queue empty...")
-                    time.sleep(5)
+                    time.sleep(1800)
                     continue
                 self.plog(f"Found {proxy_total} proxy to be test, ")
                 idx = 0
