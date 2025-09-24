@@ -10,6 +10,7 @@ import time
 import os
 import json
 import re
+import math
 from urllib.parse import urlparse
 
 
@@ -128,56 +129,57 @@ class pageAction:
         """
         result = []
         ul = self.soup.find("ul", class_="sub_ctg_list_con")
-        li_soups = ul.find_all("li")
-        try:
-            for li_soup in li_soups:
-                cat_no = ""
-                product_name = ""
-                shor_url=""
-                cas_no=""
-                effect=""
-                purity=""
-                cat_no_soup = li_soup.select_one('dt[class*="pro_list_cat"]')
-                if cat_no_soup:
-                    cat_no = cat_no_soup.get_text(strip=True)
+        if ul:
+            li_soups = ul.find_all("li")
+            try:
+                for li_soup in li_soups:
+                    cat_no = ""
+                    product_name = ""
+                    shor_url=""
+                    cas_no=""
+                    effect=""
+                    purity=""
+                    cat_no_soup = li_soup.select_one('dt[class*="pro_list_cat"]')
+                    if cat_no_soup:
+                        cat_no = cat_no_soup.get_text(strip=True)
 
-                product_info_soup = li_soup.select_one('dd[class*="pro_list_info"]')
-                if product_info_soup:
-                    product_name_soup = li_soup.select_one('th[class*="pro_list_name"]')
-                    if product_name_soup:
-                        product_name = product_name_soup.get_text(strip=True)
+                    product_info_soup = li_soup.select_one('dd[class*="pro_list_info"]')
+                    if product_info_soup:
+                        product_name_soup = li_soup.select_one('th[class*="pro_list_name"]')
+                        if product_name_soup:
+                            product_name = product_name_soup.get_text(strip=True)
 
-                        product_link_soup = product_name_soup.a
-                        if product_link_soup:
-                            shor_url = self.get_url_path(product_link_soup.get('href'))
+                            product_link_soup = product_name_soup.a
+                            if product_link_soup:
+                                shor_url = self.get_url_path(product_link_soup.get('href'))
 
-                    # cas_no 不同板块下面可能不一样
-                    product_cas_soup = li_soup.select_one('th[class*="pro_list_cas"]')
-                    if product_cas_soup:
-                        cas_no = product_cas_soup.get_text(strip=True)
-                    if not cas_no:
-                        product_cas_soup = li_soup.select_one('th[class*="pro_list_type"]')
+                        # cas_no 不同板块下面可能不一样
+                        product_cas_soup = li_soup.select_one('th[class*="pro_list_cas"]')
                         if product_cas_soup:
                             cas_no = product_cas_soup.get_text(strip=True)
+                        if not cas_no:
+                            product_cas_soup = li_soup.select_one('th[class*="pro_list_type"]')
+                            if product_cas_soup:
+                                cas_no = product_cas_soup.get_text(strip=True)
 
-                    product_purity_soup = li_soup.select_one('th[class*="pro_list_purity"]')
-                    if product_purity_soup:
-                        purity = product_purity_soup.get_text(strip=True)
+                        product_purity_soup = li_soup.select_one('th[class*="pro_list_purity"]')
+                        if product_purity_soup:
+                            purity = product_purity_soup.get_text(strip=True)
 
-                    product_effect_soup = li_soup.select_one('th[class*="pro_list_effect"]')
-                    if product_effect_soup:
-                        effect = product_effect_soup.get_text(strip=True)
+                        product_effect_soup = li_soup.select_one('th[class*="pro_list_effect"]')
+                        if product_effect_soup:
+                            effect = product_effect_soup.get_text(strip=True)
 
-                result.append({
-                    "cat_no": cat_no,
-                    "product_name": product_name,
-                    "shor_url": shor_url,
-                    "cas_no": cas_no,
-                    "effect": effect,
-                    "purity": purity
-                })
-        except Exception as e:
-            result = []
+                    result.append({
+                        "cat_no": cat_no,
+                        "product_name": product_name,
+                        "shor_url": shor_url,
+                        "cas_no": cas_no,
+                        "effect": effect,
+                        "purity": purity
+                    })
+            except Exception as e:
+                result = []
         return result
 
 
@@ -200,6 +202,14 @@ class pageAction:
                     end_page_li = page_li[-1]
                     if end_page_li and end_page_li.get_text(strip=True):
                         max_page = int(end_page_li.get_text(strip=True))
+            if not max_page:
+                h2_s = self.soup.find("h2", class_="fl")
+                match = re.search(r"\((\d+)\)", h2_s.get_text(strip=True))
+                if match:
+                    number = int(match.group(1))
+                    if number:
+                        max_page = math.ceil(int(number)/20)
+
         except Exception as e:
             pass
         return max_page
@@ -215,26 +225,28 @@ class pageAction:
                 title = item_soup.find("h2").get_text(strip=True)
                 link = ""
                 list_main_soup = item_soup.find("div", class_="list-main")
-                children_soups = list_main_soup.find_all("a")
-                child_data = []
-                for child in children_soups:
-                    sub_link = child.get("href")
-                    sub_title = child.get_text(strip=True)
-                    child_data.append({
-                        "title": sub_title,
-                        "link": sub_link,
-                        "type": "category",
-                        "children": []
+                if list_main_soup:
+                    children_soups = list_main_soup.find_all("a")
+                    child_data = []
+                    for child in children_soups:
+                        sub_link = child.get("href")
+                        sub_title = child.get_text(strip=True)
+                        child_data.append({
+                            "title": sub_title,
+                            "link": sub_link,
+                            "type": "category",
+                            "children": []
+                        })
+                    sub_catalog.append({
+                        "title": title,
+                        "link": link,
+                        "type": "group",
+                        "children": child_data
                     })
-                sub_catalog.append({
-                    "title": title,
-                    "link": link,
-                    "type": "group",
-                    "children": child_data
-                })
             return sub_catalog
 
         except Exception as e:
+            print(traceback.format_exc())
             self.sysLog.log(f"by NaturalProducts top get failed")
 
 

@@ -26,19 +26,20 @@ class NaturalPageAction(pageAction):
         检测当前页面的类别
         """
         bread_soup = self.soup.find("div", id="bread")
-        ol_lis = bread_soup.find_all("li")
+        if bread_soup:
+            ol_lis = bread_soup.find_all("li")
 
-        if len(ol_lis) == 2:
-            return 1
+            if len(ol_lis) == 2:
+                return 1
 
-        if len(ol_lis) == 3:
-            return 2
+            if len(ol_lis) == 3:
+                return 2
 
-        if len(ol_lis) == 4:
-            return 3
+            if len(ol_lis) == 4:
+                return 3
 
-        if len(ol_lis) == 5:
-            return 4
+            if len(ol_lis) == 5:
+                return 4
 
         return None
 

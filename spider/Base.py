@@ -123,9 +123,7 @@ class Base:
                 if idx > 5:
                     print("proxy_issue Failed!")
                     break
-
                 try:
-
                     req_url = f"{gpt_conf.remote_server}/proxy_issue_random"
                     print(f"proxy_issue_random: {req_url}")
                     resp = requests.get(url=req_url, timeout=3)
@@ -244,11 +242,22 @@ class Base:
                 if "queue_data" in resp_data['catalog'] and resp_data['catalog']['queue_data']:
                     queue_data = resp_data['catalog']['queue_data']
 
-
-
                     for item_data in queue_data:
-                        catalog_name = self.get_catalog_name_by_url(item_data['link'])
-                        catalog_key = utils.common.md5(catalog_name)
+                        # 如果为group，创建任务的同时 需要创建分类
+                        if item_data['type'] == "group":
+                            curr_catalog_processing = "completed"
+                            curr_processing = "completed"
+                            curr_product_processing = "completed"
+                            catalog_key = utils.common.md5(f"{task['c_key']}--{item_data['title']}")
+                            catalog_name = item_data['title']
+                        else:
+                            curr_catalog_processing = "waiting"
+                            curr_processing = "waiting"
+                            curr_product_processing = "waiting"
+                            catalog_name = self.get_catalog_name_by_url(item_data['link'])
+                            catalog_key = utils.common.md5(catalog_name)
+
+
                         item_uid = utils.common.md5(self.get_query_url(item_data['link']))
                         if not MTask.first(condition={
                             "uid": item_uid
@@ -257,9 +266,9 @@ class Base:
                                 # 将完整url md5后的值
                                 "type": item_data['type'],
 
-                                "processing": "waiting",
-                                "catalog_processing": "waiting",
-                                "product_processing": "waiting",
+                                "processing": curr_processing,
+                                "catalog_processing": curr_catalog_processing,
+                                "product_processing": curr_product_processing,
 
                                 # 组名称
                                 "group_name": group_name,
@@ -276,12 +285,30 @@ class Base:
                                 "c_name": catalog_name,
                             })
 
+                        group_exists = MCatalog.first(condition={
+                            "c_key": catalog_key
+                        })
+                        if item_data['type'] == "group" and not group_exists:
+                            print("-----2----")
+                            MCatalog.add_one(data={
+                                "type": item_data['type'],
+                                # 因为子分类没有url，所以根据弗雷的ckey+title 来确定
+                                "c_key": catalog_key,
+                                "c_p_key": task['c_key'],
+                                "c_name": catalog_name,
+                                "name": item_data['title'],
+                                "origin_url": "",
+                                "url_path": "",
+                                "shor_url": "",
+                                # 包含了统计的名称
+                                'name_with_count': item_data['title'],
+                            })
                         if "children" in item_data and item_data['children']:
                             for child_item in item_data['children']:
                                 sub_catalog_name = self.get_catalog_name_by_url(child_item['link'])
                                 sub_item_uid = utils.common.md5(self.get_query_url(child_item['link']))
                                 if not MTask.first(condition={
-                                    "uid": item_uid
+                                    "uid": sub_item_uid
                                 }):
                                     MTask.add_one(data={
                                         "type": item_data['type'],
