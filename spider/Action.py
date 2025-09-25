@@ -219,12 +219,12 @@ class pageAction:
         解析包含组的分类
         """
         try:
-            item_soups = self.soup.find_all("div", class_="hot-list")[1:]
-            sub_catalog = []
-            for item_soup in item_soups:
+            if self.url.endswith("/dyereagents/dye-reagents.html"):
+                sub_catalog = []
+                item_soup = self.soup.find("div", class_="hot-list")
                 title = item_soup.find("h2").get_text(strip=True)
                 link = ""
-                list_main_soup = item_soup.find("div", class_="list-main")
+                list_main_soup = item_soup.find_next_sibling("div", class_="list-main")
                 if list_main_soup:
                     children_soups = list_main_soup.find_all("a")
                     child_data = []
@@ -243,6 +243,32 @@ class pageAction:
                         "type": "group",
                         "children": child_data
                     })
+            else:
+                item_soups = self.soup.find_all("div", class_="hot-list")[1:]
+                sub_catalog = []
+                print(item_soups)
+                for item_soup in item_soups:
+                    title = item_soup.find("h2").get_text(strip=True)
+                    link = ""
+                    list_main_soup = item_soup.find("div", class_="list-main")
+                    if list_main_soup:
+                        children_soups = list_main_soup.find_all("a")
+                        child_data = []
+                        for child in children_soups:
+                            sub_link = child.get("href")
+                            sub_title = child.get_text(strip=True)
+                            child_data.append({
+                                "title": sub_title,
+                                "link": sub_link,
+                                "type": "category",
+                                "children": []
+                            })
+                        sub_catalog.append({
+                            "title": title,
+                            "link": link,
+                            "type": "group",
+                            "children": child_data
+                        })
             return sub_catalog
 
         except Exception as e:

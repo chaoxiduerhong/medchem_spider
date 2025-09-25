@@ -29,7 +29,7 @@ def confirm_exec():
 
 if __name__ == "__main__":
     try:
-        # 这里设置命令的标题
+        # 这里设置命令的标题  以下三个都要启动起来
         current_cmd = f"{os.path.abspath(sys.argv[0])} {mark}"
         os.system(f"title {current_cmd}")
         if mark == "query":
@@ -47,4 +47,3 @@ if __name__ == "__main__":
         print(traceback.format_exc())
     finally:
         print("主线程退出")
-

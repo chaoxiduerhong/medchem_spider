@@ -45,6 +45,7 @@ class NaturalPageAction(pageAction):
 
 
     def parse_lv_1(self, catalog_name):
+        print("------")
         # pathway 顶级 的写法
         return self.std_data({
             "catalog": {
