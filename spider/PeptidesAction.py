@@ -50,7 +50,7 @@ class PeptidesPageAction(pageAction):
                 "current_data": {
                     "title": catalog_name,
                 },
-                "queue_data": self.parse_cls_target_h3_href_list()
+                "queue_data": self.parse_cls_target_h3_href_list(type="category")
             }
         })
 

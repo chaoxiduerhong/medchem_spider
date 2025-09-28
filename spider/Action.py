@@ -63,7 +63,7 @@ class pageAction:
             result = []
         return result
 
-    def parse_cls_target_h3_href_list(self):
+    def parse_cls_target_h3_href_list(self, type="group"):
         """
         获取div class=target_list 下h3 的超链接包含的分类信息
         """
@@ -73,7 +73,7 @@ class pageAction:
             for item in items:
                 link = item.find("a").get("href")
                 title = item.get_text(strip=True)
-                result.append({"link": link, "title": title, "type": "group", "children": []})
+                result.append({"link": link, "title": title, "type": type, "children": []})
         except Exception as e:
             pass
         return result

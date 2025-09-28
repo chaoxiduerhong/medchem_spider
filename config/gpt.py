@@ -82,18 +82,18 @@ class gptConf:
 
     # 入口 不同的入口代表不同的线程 - 分多线程去爬。暂时不考虑那个快 那个慢的问题
     entry_urls = [
-        "https://www.medchemexpress.com/pathway.html",
-        # "https://www.medchemexpress.com/NaturalProducts/Natural%20Products.html",
-        # "https://www.medchemexpress.com/oligonucleotides.html",
-        # "https://www.medchemexpress.com/isotope-compound/isotope-compound.html",
-        # "https://www.medchemexpress.com/dyereagents/dye-reagents.html",
-        # "https://www.medchemexpress.com/inhibitory-antibodies.html",
-        # "https://www.medchemexpress.com/biochemical-assay-reagents.html",
+        # "https://www.medchemexpress.com/pathway.html",
+        # "https://www.medchemexpress.com/NaturalProducts/Natural%20Products.html",   # 0924 20:00
+        # "https://www.medchemexpress.com/oligonucleotides.html", # 0925 18:40
+        # "https://www.medchemexpress.com/isotope-compound/isotope-compound.html", # 0925 22:10
+        # "https://www.medchemexpress.com/dyereagents/dye-reagents.html",  # 0926 03:20
+        # "https://www.medchemexpress.com/inhibitory-antibodies.html", # 0926 07:30
+        # "https://www.medchemexpress.com/biochemical-assay-reagents.html", # 0926 08:15
         # # "https://www.medchemexpress.com/antibodies.html", # 抗体不用爬
-        # "https://www.medchemexpress.com/enzyme.html",
-        # "https://www.medchemexpress.com/standards.html",
-        # "https://www.medchemexpress.com/peptides.html",
-        # "https://www.medchemexpress.com/induced-disease-model.html",
+        # "https://www.medchemexpress.com/enzyme.html", # 0926 20:50
+        # "https://www.medchemexpress.com/standards.html", # 0927 09:00
+        # "https://www.medchemexpress.com/peptides.html", # 0927 11:02
+        "https://www.medchemexpress.com/induced-disease-model.html", # 0927 15:14
         # # "https://www.medchemexpress.com/gmp-small-molecules.html" # 不要了
     ]
 
